@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ascii"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Id="rId9" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag127.xml"/>
+  <Relationship Id="rId8" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag126.xml"/>
+  <Relationship Id="rId7" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag125.xml"/>
+  <Relationship Id="rId6" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag124.xml"/>
+  <Relationship Id="rId5" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag123.xml"/>
+  <Relationship Id="rId42" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag158.xml"/>
+  <Relationship Id="rId41" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag157.xml"/>
+  <Relationship Id="rId40" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag156.xml"/>
+  <Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag122.xml"/>
+  <Relationship Id="rId39" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag155.xml"/>
+  <Relationship Id="rId38" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag154.xml"/>
+  <Relationship Id="rId37" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag153.xml"/>
+  <Relationship Id="rId36" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag152.xml"/>
+  <Relationship Id="rId35" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag151.xml"/>
+  <Relationship Id="rId34" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag150.xml"/>
+  <Relationship Id="rId33" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag149.xml"/>
+  <Relationship Id="rId32" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag148.xml"/>
+  <Relationship Id="rId31" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag147.xml"/>
+  <Relationship Id="rId30" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag146.xml"/>
+  <Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag121.xml"/>
+  <Relationship Id="rId29" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag145.xml"/>
+  <Relationship Id="rId28" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag144.xml"/>
+  <Relationship Id="rId27" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag143.xml"/>
+  <Relationship Id="rId26" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag142.xml"/>
+  <Relationship Id="rId25" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag141.xml"/>
+  <Relationship Id="rId24" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag140.xml"/>
+  <Relationship Id="rId23" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag139.xml"/>
+  <Relationship Id="rId22" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag138.xml"/>
+  <Relationship Id="rId21" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag137.xml"/>
+  <Relationship Id="rId20" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag136.xml"/>
+  <Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag120.xml"/>
+  <Relationship Id="rId19" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag135.xml"/>
+  <Relationship Id="rId18" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag134.xml"/>
+  <Relationship Id="rId17" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag133.xml"/>
+  <Relationship Id="rId16" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag132.xml"/>
+  <Relationship Id="rId15" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag131.xml"/>
+  <Relationship Id="rId14" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Target="../media/image2.png"/>
+  <Relationship Id="rId13" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag130.xml"/>
+  <Relationship Id="rId12" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Target="../media/image1.png"/>
+  <Relationship Id="rId11" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag129.xml"/>
+  <Relationship Id="rId10" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags" Target="../tags/tag128.xml"/>
+  <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideMaster" Target="../slideMasters/slideMaster2.xml"/>
+</Relationships>

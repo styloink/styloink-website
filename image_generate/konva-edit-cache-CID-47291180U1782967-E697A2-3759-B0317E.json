@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "state": {
+    "imageUrls": [
+      "https://sc02.alicdn.com/kf/Ab8a2123555794f449ac93355a8b1a87fO.png",
+      "https://sc02.alicdn.com/kf/Af09a8d17501a4c9d80b2ce32a7042ea90.png",
+      "https://sc02.alicdn.com/kf/A350153e841c94f3c96062b574e3bad4cx.png",
+      "https://sc02.alicdn.com/kf/A9972c95467db49feb3c9817349c23ea73.png"
+    ],
+    "images": [
+      {
+        "url": "https://sc02.alicdn.com/kf/Ab8a2123555794f449ac93355a8b1a87fO.png",
+        "naturalWidth": 1536,
+        "naturalHeight": 2752,
+        "x": 0,
+        "y": 0,
+        "displayWidth": 1536,
+        "displayHeight": 2752
+      },
+      {
+        "url": "https://sc02.alicdn.com/kf/Af09a8d17501a4c9d80b2ce32a7042ea90.png",
+        "naturalWidth": 1536,
+        "naturalHeight": 2752,
+        "x": 1576,
+        "y": 0,
+        "displayWidth": 1536,
+        "displayHeight": 2752
+      },
+      {
+        "url": "https://sc02.alicdn.com/kf/A350153e841c94f3c96062b574e3bad4cx.png",
+        "naturalWidth": 1536,
+        "naturalHeight": 2752,
+        "x": 3152,
+        "y": 0,
+        "displayWidth": 1536,
+        "displayHeight": 2752
+      },
+      {
+        "url": "https://sc02.alicdn.com/kf/A9972c95467db49feb3c9817349c23ea73.png",
+        "naturalWidth": 1536,
+        "naturalHeight": 2752,
+        "x": 4728,
+        "y": 0,
+        "displayWidth": 1536,
+        "displayHeight": 2752
+      }
+    ],
+    "selectedImageUrl": "https://sc02.alicdn.com/kf/A350153e841c94f3c96062b574e3bad4cx.png",
+    "updatedAt": 1782972607195
+  }
+}

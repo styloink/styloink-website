@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" preserve="1" userDrawn="1">
+  <p:cSld name="&#30446;&#24405;&#39029;-1-5-4">
+    <p:bg>
+      <p:bgRef idx="1001">
+        <a:schemeClr val="bg1"/>
+      </p:bgRef>
+    </p:bg>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="&#26085;&#26399;&#21344;&#20301;&#31526; 3"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="dt" sz="half" idx="10"/>
+            <p:custDataLst>
+              <p:tags r:id="rId2"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="695960" y="6356350"/>
+            <a:ext cx="2743200" cy="365125"/>
+          </a:xfrm>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:p>
+            <a:fld id="{5592522B-0F24-4480-B9DD-A9474A6880D6}" type="datetimeFigureOut">
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+            </a:fld>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="8" name="&#39029;&#33050;&#21344;&#20301;&#31526; 4"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="ftr" sz="quarter" idx="11"/>
+            <p:custDataLst>
+              <p:tags r:id="rId3"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4038600" y="6356350"/>
+            <a:ext cx="4114800" cy="365125"/>
+          </a:xfrm>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:p>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="9" name="&#28783;&#29255;&#32534;&#21495;&#21344;&#20301;&#31526; 5"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldNum" sz="quarter" idx="12"/>
+            <p:custDataLst>
+              <p:tags r:id="rId4"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8753983" y="6356350"/>
+            <a:ext cx="2743200" cy="365125"/>
+          </a:xfrm>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:p>
+            <a:fld id="{BE5F26B5-172A-4DC2-B0B7-181CFC56B87C}" type="slidenum">
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+            </a:fld>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="10" name="Subtitle 9"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="subTitle" idx="17826305" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId5"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="761471" y="2667000"/>
+            <a:ext cx="2363258" cy="457200"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr lIns="0" tIns="0" rIns="0" bIns="0" anchor="t">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="ctr">
+              <a:lnSpc>
+                <a:spcPct val="125000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="2400" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr marL="457200" indent="0" algn="ctr">
+              <a:buNone/>
+              <a:defRPr sz="2000"/>
+            </a:lvl2pPr>
+            <a:lvl3pPr marL="914400" indent="0" algn="ctr">
+              <a:buNone/>
+              <a:defRPr sz="1800"/>
+            </a:lvl3pPr>
+            <a:lvl4pPr marL="1371600" indent="0" algn="ctr">
+              <a:buNone/>
+              <a:defRPr sz="1600"/>
+            </a:lvl4pPr>
+            <a:lvl5pPr marL="1828800" indent="0" algn="ctr">
+              <a:buNone/>
+              <a:defRPr sz="1600"/>
+            </a:lvl5pPr>
+            <a:lvl6pPr marL="2286000" indent="0" algn="ctr">
+              <a:buNone/>
+              <a:defRPr sz="1600"/>
+            </a:lvl6pPr>
+            <a:lvl7pPr marL="2743200" indent="0" algn="ctr">
+              <a:buNone/>
+              <a:defRPr sz="1600"/>
+            </a:lvl7pPr>
+            <a:lvl8pPr marL="3200400" indent="0" algn="ctr">
+              <a:buNone/>
+              <a:defRPr sz="1600"/>
+            </a:lvl8pPr>
+            <a:lvl9pPr marL="3657600" indent="0" algn="ctr">
+              <a:buNone/>
+              <a:defRPr sz="1600"/>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US"/>
+              <a:t>CONTENTS</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="12" name="Title 11"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="ctrTitle" idx="17826049" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId6"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="760942" y="3175000"/>
+            <a:ext cx="2364317" cy="762000"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr lIns="0" tIns="0" rIns="0" bIns="0" anchor="t">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="ctr">
+              <a:lnSpc>
+                <a:spcPct val="104000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="4800" b="1" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US"/>
+              <a:t>&#30446;&#24405;</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="13" name="Text Placeholder 12"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="319883777" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId7"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4070350" y="2286000"/>
+            <a:ext cx="596900" cy="508000"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="ctr">
+              <a:lnSpc>
+                <a:spcPct val="109000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="4000" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="accent1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t>01</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="14" name="&#35013;&#39280;  3"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="319883522" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId8"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4851400" y="2209800"/>
+            <a:ext cx="25400" cy="762000"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connisteX0" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY0" fmla="*/ 12700 h 762000"/>
+              <a:gd name="connisteX1" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 762000"/>
+              <a:gd name="connisteX2" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY2" fmla="*/ 0 h 762000"/>
+              <a:gd name="connisteX3" fmla="*/ 25400 w 25400"/>
+              <a:gd name="connsiteY3" fmla="*/ 12700 h 762000"/>
+              <a:gd name="connisteX4" fmla="*/ 25400 w 25400"/>
+              <a:gd name="connsiteY4" fmla="*/ 749300 h 762000"/>
+              <a:gd name="connisteX5" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY5" fmla="*/ 762000 h 762000"/>
+              <a:gd name="connisteX6" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY6" fmla="*/ 762000 h 762000"/>
+              <a:gd name="connisteX7" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY7" fmla="*/ 749300 h 762000"/>
+              <a:gd name="connisteX8" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY8" fmla="*/ 12700 h 762000"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connisteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX8" y="connsiteY8"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:pathLst>
+              <a:path w="25400" h="762000">
+                <a:moveTo>
+                  <a:pt x="0" y="12700"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="0" y="5686"/>
+                  <a:pt x="5686" y="0"/>
+                  <a:pt x="12700" y="0"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12700" y="0"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="19714" y="0"/>
+                  <a:pt x="25400" y="5686"/>
+                  <a:pt x="25400" y="12700"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="25400" y="749300"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="25400" y="756314"/>
+                  <a:pt x="19714" y="762000"/>
+                  <a:pt x="12700" y="762000"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12700" y="762000"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="5686" y="762000"/>
+                  <a:pt x="0" y="756314"/>
+                  <a:pt x="0" y="749300"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="0" y="12700"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1">
+              <a:alpha val="50000"/>
+            </a:schemeClr>
+          </a:solidFill>
+          <a:ln>
+            <a:solidFill>
+              <a:prstClr val="black">
+                <a:alpha val="0"/>
+              </a:prstClr>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr>
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl1pPr>
+            <a:lvl2pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl2pPr>
+            <a:lvl3pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl3pPr>
+            <a:lvl4pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl4pPr>
+            <a:lvl5pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl5pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t> </a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="15" name="Text Placeholder 14"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="51446017" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId9"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="5080000" y="2133600"/>
+            <a:ext cx="2324100" cy="914400"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="l">
+              <a:lnSpc>
+                <a:spcPct val="118000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="2400" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t>&#21333;&#20987;&#27492;&#22788;&#28155;&#21152;&#39033;&#26631;&#39064;</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="16" name="Text Placeholder 15"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="319949313" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId10"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7994650" y="2286000"/>
+            <a:ext cx="596900" cy="508000"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="ctr">
+              <a:lnSpc>
+                <a:spcPct val="109000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="4000" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="accent1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t>02</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="17" name="&#35013;&#39280;  6"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="319949058" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId11"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8775700" y="2209800"/>
+            <a:ext cx="25400" cy="762000"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connisteX0" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY0" fmla="*/ 12700 h 762000"/>
+              <a:gd name="connisteX1" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 762000"/>
+              <a:gd name="connisteX2" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY2" fmla="*/ 0 h 762000"/>
+              <a:gd name="connisteX3" fmla="*/ 25400 w 25400"/>
+              <a:gd name="connsiteY3" fmla="*/ 12700 h 762000"/>
+              <a:gd name="connisteX4" fmla="*/ 25400 w 25400"/>
+              <a:gd name="connsiteY4" fmla="*/ 749300 h 762000"/>
+              <a:gd name="connisteX5" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY5" fmla="*/ 762000 h 762000"/>
+              <a:gd name="connisteX6" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY6" fmla="*/ 762000 h 762000"/>
+              <a:gd name="connisteX7" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY7" fmla="*/ 749300 h 762000"/>
+              <a:gd name="connisteX8" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY8" fmla="*/ 12700 h 762000"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connisteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX8" y="connsiteY8"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:pathLst>
+              <a:path w="25400" h="762000">
+                <a:moveTo>
+                  <a:pt x="0" y="12700"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="0" y="5686"/>
+                  <a:pt x="5686" y="0"/>
+                  <a:pt x="12700" y="0"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12700" y="0"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="19714" y="0"/>
+                  <a:pt x="25400" y="5686"/>
+                  <a:pt x="25400" y="12700"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="25400" y="749300"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="25400" y="756314"/>
+                  <a:pt x="19714" y="762000"/>
+                  <a:pt x="12700" y="762000"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12700" y="762000"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="5686" y="762000"/>
+                  <a:pt x="0" y="756314"/>
+                  <a:pt x="0" y="749300"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="0" y="12700"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1">
+              <a:alpha val="50000"/>
+            </a:schemeClr>
+          </a:solidFill>
+          <a:ln>
+            <a:solidFill>
+              <a:prstClr val="black">
+                <a:alpha val="0"/>
+              </a:prstClr>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr>
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl1pPr>
+            <a:lvl2pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl2pPr>
+            <a:lvl3pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl3pPr>
+            <a:lvl4pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl4pPr>
+            <a:lvl5pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl5pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t> </a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="18" name="Text Placeholder 17"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="51511553" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId12"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="9004300" y="2133600"/>
+            <a:ext cx="2324100" cy="914400"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="l">
+              <a:lnSpc>
+                <a:spcPct val="118000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="2400" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t>&#21333;&#20987;&#27492;&#22788;&#28155;&#21152;&#39033;&#26631;&#39064;</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="19" name="Text Placeholder 18"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="320014849" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId13"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4070350" y="3962400"/>
+            <a:ext cx="596900" cy="508000"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="ctr">
+              <a:lnSpc>
+                <a:spcPct val="109000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="4000" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="accent1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t>03</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="20" name="&#35013;&#39280;  9"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="320014594" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId14"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4851400" y="3886200"/>
+            <a:ext cx="25400" cy="762000"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connisteX0" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY0" fmla="*/ 12700 h 762000"/>
+              <a:gd name="connisteX1" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 762000"/>
+              <a:gd name="connisteX2" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY2" fmla="*/ 0 h 762000"/>
+              <a:gd name="connisteX3" fmla="*/ 25400 w 25400"/>
+              <a:gd name="connsiteY3" fmla="*/ 12700 h 762000"/>
+              <a:gd name="connisteX4" fmla="*/ 25400 w 25400"/>
+              <a:gd name="connsiteY4" fmla="*/ 749300 h 762000"/>
+              <a:gd name="connisteX5" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY5" fmla="*/ 762000 h 762000"/>
+              <a:gd name="connisteX6" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY6" fmla="*/ 762000 h 762000"/>
+              <a:gd name="connisteX7" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY7" fmla="*/ 749300 h 762000"/>
+              <a:gd name="connisteX8" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY8" fmla="*/ 12700 h 762000"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connisteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX8" y="connsiteY8"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:pathLst>
+              <a:path w="25400" h="762000">
+                <a:moveTo>
+                  <a:pt x="0" y="12700"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="0" y="5686"/>
+                  <a:pt x="5686" y="0"/>
+                  <a:pt x="12700" y="0"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12700" y="0"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="19714" y="0"/>
+                  <a:pt x="25400" y="5686"/>
+                  <a:pt x="25400" y="12700"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="25400" y="749300"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="25400" y="756314"/>
+                  <a:pt x="19714" y="762000"/>
+                  <a:pt x="12700" y="762000"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12700" y="762000"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="5686" y="762000"/>
+                  <a:pt x="0" y="756314"/>
+                  <a:pt x="0" y="749300"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="0" y="12700"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1">
+              <a:alpha val="50000"/>
+            </a:schemeClr>
+          </a:solidFill>
+          <a:ln>
+            <a:solidFill>
+              <a:prstClr val="black">
+                <a:alpha val="0"/>
+              </a:prstClr>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr>
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl1pPr>
+            <a:lvl2pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl2pPr>
+            <a:lvl3pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl3pPr>
+            <a:lvl4pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl4pPr>
+            <a:lvl5pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl5pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t> </a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="21" name="Text Placeholder 20"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="51577089" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId15"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="5080000" y="3810000"/>
+            <a:ext cx="2324100" cy="914400"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="l">
+              <a:lnSpc>
+                <a:spcPct val="118000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="2400" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t>&#21333;&#20987;&#27492;&#22788;&#28155;&#21152;&#39033;&#26631;&#39064;</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="22" name="Text Placeholder 21"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="320080385" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId16"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7994650" y="3962400"/>
+            <a:ext cx="596900" cy="508000"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="none" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="ctr">
+              <a:lnSpc>
+                <a:spcPct val="109000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="4000" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="accent1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t>04</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="23" name="&#35013;&#39280;  2"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="320080130" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId17"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8775700" y="3886200"/>
+            <a:ext cx="25400" cy="762000"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connisteX0" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY0" fmla="*/ 12700 h 762000"/>
+              <a:gd name="connisteX1" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 762000"/>
+              <a:gd name="connisteX2" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY2" fmla="*/ 0 h 762000"/>
+              <a:gd name="connisteX3" fmla="*/ 25400 w 25400"/>
+              <a:gd name="connsiteY3" fmla="*/ 12700 h 762000"/>
+              <a:gd name="connisteX4" fmla="*/ 25400 w 25400"/>
+              <a:gd name="connsiteY4" fmla="*/ 749300 h 762000"/>
+              <a:gd name="connisteX5" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY5" fmla="*/ 762000 h 762000"/>
+              <a:gd name="connisteX6" fmla="*/ 12700 w 25400"/>
+              <a:gd name="connsiteY6" fmla="*/ 762000 h 762000"/>
+              <a:gd name="connisteX7" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY7" fmla="*/ 749300 h 762000"/>
+              <a:gd name="connisteX8" fmla="*/ 0 w 25400"/>
+              <a:gd name="connsiteY8" fmla="*/ 12700 h 762000"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connisteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connisteX8" y="connsiteY8"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:pathLst>
+              <a:path w="25400" h="762000">
+                <a:moveTo>
+                  <a:pt x="0" y="12700"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="0" y="5686"/>
+                  <a:pt x="5686" y="0"/>
+                  <a:pt x="12700" y="0"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12700" y="0"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="19714" y="0"/>
+                  <a:pt x="25400" y="5686"/>
+                  <a:pt x="25400" y="12700"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="25400" y="749300"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="25400" y="756314"/>
+                  <a:pt x="19714" y="762000"/>
+                  <a:pt x="12700" y="762000"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12700" y="762000"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="5686" y="762000"/>
+                  <a:pt x="0" y="756314"/>
+                  <a:pt x="0" y="749300"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="0" y="12700"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1">
+              <a:alpha val="50000"/>
+            </a:schemeClr>
+          </a:solidFill>
+          <a:ln>
+            <a:solidFill>
+              <a:prstClr val="black">
+                <a:alpha val="0"/>
+              </a:prstClr>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr>
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl1pPr>
+            <a:lvl2pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl2pPr>
+            <a:lvl3pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl3pPr>
+            <a:lvl4pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl4pPr>
+            <a:lvl5pPr>
+              <a:buNone/>
+              <a:defRPr/>
+            </a:lvl5pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t> </a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="24" name="Text Placeholder 23"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="51642625" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId18"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="9004300" y="3810000"/>
+            <a:ext cx="2324100" cy="914400"/>
+          </a:xfrm>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="l">
+              <a:lnSpc>
+                <a:spcPct val="118000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="2400" b="0" spc="0">
+                <a:solidFill>
+                  <a:schemeClr val="tx1"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+              <a:t>&#21333;&#20987;&#27492;&#22788;&#28155;&#21152;&#39033;&#26631;&#39064;</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" smtClean="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:overrideClrMapping bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+  </p:clrMapOvr>
+</p:sldLayout>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 28pt 36pt 24pt 36pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #F8F4EE;
+  font-family: Arial, sans-serif;
+}
+.header { display: flex; align-items: center; gap: 10pt; margin-bottom: 20pt; }
+.header-line { width: 4pt; height: 20pt; background: #C4944A; }
+.header-title { color: #5C3D2E; font-size: 15pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.header-sub { color: #8B5E3C; font-size: 10pt; margin: 0 0 0 8pt; }
+.coop-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 12pt;
+  flex: 1 1 0;
+  min-height: 0;
+}
+.coop-card {
+  background: #fff;
+  border: 1pt solid #D4B896;
+  border-radius: 4pt;
+  padding: 16pt 14pt;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10pt;
+  min-height: 0;
+  text-align: center;
+}
+.coop-card.dark {
+  background: #5C3D2E;
+  border-color: #5C3D2E;
+}
+.step-num {
+  width: 36pt; height: 36pt; border-radius: 50%;
+  background: #C4944A;
+  display: flex; align-items: center; justify-content: center;
+}
+.step-num-text { color: #fff; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.coop-card.dark .step-num { background: transparent; border: 2pt solid #C4944A; }
+.step-title { color: #5C3D2E; font-size: 12pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.coop-card.dark .step-title { color: #F8F4EE; }
+.step-divider { width: 24pt; height: 1pt; background: #C4944A; }
+.step-desc { color: #6B5040; font-size: 9.5pt; line-height: 1.6; margin: 0; }
+.coop-card.dark .step-desc { color: #D4B896; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-line"></div>
+  <p class="header-title">合作模式</p>
+  <p class="header-sub">—— 全面赋能，价值共创</p>
+</div>
+<div class="coop-grid">
+  <div class="coop-card">
+    <div class="step-num"><p class="step-num-text">01</p></div>
+    <p class="step-title">整体托管运营</p>
+    <div class="step-divider"></div>
+    <p class="step-desc">我们负责全面的日常运营与管理，提供专业保障</p>
+  </div>
+  <div class="coop-card dark">
+    <div class="step-num"><p class="step-num-text">02</p></div>
+    <p class="step-title">保留优势项目</p>
+    <div class="step-divider"></div>
+    <p class="step-desc">尊重并保留平康纪现有的优势项目与特色</p>
+  </div>
+  <div class="coop-card">
+    <div class="step-num"><p class="step-num-text">03</p></div>
+    <p class="step-title">新增专科项目</p>
+    <div class="step-divider"></div>
+    <p class="step-desc">引入我们擅长的慢病管理与特色专科</p>
+  </div>
+  <div class="coop-card dark">
+    <div class="step-num"><p class="step-num-text">04</p></div>
+    <p class="step-title">共同引进新项目</p>
+    <div class="step-divider"></div>
+    <p class="step-desc">根据市场需求，双方共同决策，引进新的高价值项目</p>
+  </div>
+</div>
+</body>
+</html>

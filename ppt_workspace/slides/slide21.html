@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 0;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #5C3D2E;
+  font-family: Georgia, serif;
+}
+.bg-accent {
+  position: absolute;
+  left: 0; bottom: 0;
+  width: 720pt; height: 80pt;
+  background: #4A3020;
+}
+.deco-top-left {
+  position: absolute;
+  left: 24pt; top: 24pt;
+  width: 50pt; height: 50pt;
+  border-left: 2pt solid #C4944A;
+  border-top: 2pt solid #C4944A;
+}
+.deco-bottom-right {
+  position: absolute;
+  right: 24pt; bottom: 24pt;
+  width: 50pt; height: 50pt;
+  border-right: 2pt solid #C4944A;
+  border-bottom: 2pt solid #C4944A;
+}
+.center-content {
+  position: absolute;
+  left: 0; top: 0;
+  width: 720pt; height: 405pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14pt;
+}
+.gold-line { width: 60pt; height: 2pt; background: #C4944A; }
+.end-label { color: #C4944A; font-size: 11pt; font-family: Arial, sans-serif; margin: 0; letter-spacing: 4pt; }
+.end-title { color: #F8F4EE; font-size: 30pt; font-weight: bold; margin: 0; letter-spacing: 4pt; }
+.end-sub { color: #D4B896; font-size: 13pt; margin: 0; letter-spacing: 2pt; }
+.brand-row {
+  display: flex;
+  align-items: center;
+  gap: 16pt;
+  margin-top: 6pt;
+}
+.brand-item { text-align: center; }
+.brand-cn { color: #F8F4EE; font-size: 14pt; font-weight: bold; margin: 0; letter-spacing: 1pt; }
+.brand-en { color: #C4944A; font-size: 8pt; margin: 3pt 0 0 0; letter-spacing: 1pt; font-family: Arial, sans-serif; }
+.brand-sep { color: #C4944A; font-size: 20pt; margin: 0; }
+</style>
+</head>
+<body>
+<div class="bg-accent"></div>
+<div class="deco-top-left"></div>
+<div class="deco-bottom-right"></div>
+<div class="center-content">
+  <p class="end-label">THE END</p>
+  <div class="gold-line"></div>
+  <p class="end-title">携手共进，共创辉煌</p>
+  <p class="end-sub">感谢您的聆听与信任</p>
+  <div class="gold-line"></div>
+  <div class="brand-row">
+    <div class="brand-item">
+      <p class="brand-cn">泰禾康</p>
+      <p class="brand-en">TAIHE KANG</p>
+    </div>
+    <p class="brand-sep">&amp;</p>
+    <div class="brand-item">
+      <p class="brand-cn">朴润中医馆</p>
+      <p class="brand-en">PURUN TCM</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

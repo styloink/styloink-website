@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 0;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #5C3D2E;
+  font-family: Georgia, serif;
+}
+.bg-pattern {
+  position: absolute;
+  right: 0; top: 0;
+  width: 320pt; height: 405pt;
+  background: #6B4A38;
+  clip-path: polygon(40pt 0, 100% 0, 100% 100%, 0 100%);
+}
+.content {
+  position: absolute;
+  left: 0; top: 0;
+  width: 720pt; height: 405pt;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 60pt;
+  box-sizing: border-box;
+}
+.section-tag {
+  background: #C4944A;
+  display: inline-block;
+  padding: 5pt 16pt;
+  border-radius: 2pt;
+  margin-bottom: 20pt;
+  width: fit-content;
+}
+.section-num { color: #F8F4EE; font-size: 11pt; font-family: Arial, sans-serif; margin: 0; letter-spacing: 3pt; }
+.section-title { color: #F8F4EE; font-size: 34pt; font-weight: bold; margin: 0 0 16pt 0; letter-spacing: 3pt; }
+.section-en { color: #D4B896; font-size: 11pt; font-family: Arial, sans-serif; margin: 0; letter-spacing: 4pt; }
+.deco-h-line { position: absolute; left: 60pt; bottom: 70pt; width: 100pt; height: 2pt; background: #C4944A; }
+.corner-br { position: absolute; right: 32pt; bottom: 32pt; width: 40pt; height: 40pt; border-right: 2pt solid #C4944A; border-bottom: 2pt solid #C4944A; }
+</style>
+</head>
+<body>
+<div class="bg-pattern"></div>
+<div class="content">
+  <div class="section-tag"><p class="section-num">PART 02</p></div>
+  <p class="section-title">核心团队</p>
+  <p class="section-en">精英荟萃，实力护航</p>
+</div>
+<div class="deco-h-line"></div>
+<div class="corner-br"></div>
+</body>
+</html>

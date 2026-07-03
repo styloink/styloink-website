@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:tagLst xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:tag name="KSO_WM_SLIDE_CONTENT_ORIENTATION" val="left"/>
+  <p:tag name="KSO_WM_SLIDE_HAS_MASK" val="0"/>
+  <p:tag name="KSO_WM_SLIDE_ITEM_CNT" val="0"/>
+  <p:tag name="KSO_WM_SLIDE_TYPE" val="title"/>
+  <p:tag name="KSO_WM_TEMPLATE_SUBCATEGORY" val="29"/>
+  <p:tag name="KSO_WM_BEAUTIFY_FLAG" val="#wm#"/>
+  <p:tag name="KSO_WM_TEMPLATE_SLIDE_ID" val="slide_d799d37ec7ee1a76"/>
+  <p:tag name="KSO_WM_TEMPLATE_THUMBS_INDEX" val="1&#12289;9"/>
+  <p:tag name="KSO_WM_TEMPLATE_INDEX" val="40480485"/>
+  <p:tag name="KSO_WM_TEMPLATE_CATEGORY" val="custom"/>
+  <p:tag name="KSO_WM_SLIDE_INDEX" val="1"/>
+  <p:tag name="KSO_WM_SLIDE_ID" val="custom40480485_1"/>
+  <p:tag name="KSO_WM_TEMPLATE_MASTER_TYPE" val="0"/>
+  <p:tag name="KSO_WM_SLIDE_LAYOUT" val="a_f"/>
+  <p:tag name="KSO_WM_SLIDE_LAYOUT_CNT" val="1_2"/>
+  <p:tag name="KSO_WM_TAG_VERSION" val="3.0"/>
+</p:tagLst>

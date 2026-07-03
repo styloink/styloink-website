@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 26pt 36pt 24pt 36pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #F8F4EE;
+  font-family: Arial, sans-serif;
+}
+.header { display: flex; align-items: center; gap: 10pt; margin-bottom: 18pt; }
+.header-line { width: 4pt; height: 20pt; background: #C4944A; }
+.header-title { color: #5C3D2E; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.main-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16pt;
+  margin-bottom: 14pt;
+}
+.top-card {
+  background: #5C3D2E;
+  border-radius: 4pt;
+  padding: 14pt 18pt;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 14pt;
+}
+.top-icon {
+  width: 44pt; height: 44pt; border-radius: 50%;
+  background: #C4944A;
+  display: flex; align-items: center; justify-content: center;
+  min-width: 44pt;
+}
+.top-icon-text { color: #fff; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.top-info {}
+.top-label { color: #C4944A; font-size: 9pt; margin: 0; letter-spacing: 1pt; }
+.top-title { color: #F8F4EE; font-size: 13pt; font-weight: bold; font-family: Georgia, serif; margin: 3pt 0 0 0; }
+.top-desc { color: #D4B896; font-size: 9pt; margin: 4pt 0 0 0; }
+.detail-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 12pt;
+  flex: 1 1 0;
+  min-height: 0;
+}
+.detail-card {
+  background: #fff;
+  border: 1pt solid #D4B896;
+  border-top: 3pt solid #C4944A;
+  border-radius: 3pt;
+  padding: 12pt 14pt;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 6pt;
+  min-height: 0;
+}
+.d-title { color: #5C3D2E; font-size: 11pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.d-desc { color: #6B5040; font-size: 9.5pt; line-height: 1.6; margin: 0; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-line"></div>
+  <p class="header-title">合作方案与收益模式</p>
+</div>
+<div class="main-row">
+  <div class="top-card">
+    <div class="top-icon"><p class="top-icon-text">固</p></div>
+    <div class="top-info">
+      <p class="top-label">FIXED FEE</p>
+      <p class="top-title">固定年度运营费用</p>
+      <p class="top-desc">委托方支付固定年度费用，保障团队薪酬与日常管理</p>
+    </div>
+  </div>
+  <div class="top-card">
+    <div class="top-icon"><p class="top-icon-text">分</p></div>
+    <div class="top-info">
+      <p class="top-label">REVENUE SHARE</p>
+      <p class="top-title">收益分成机制</p>
+      <p class="top-desc">总体收入按比例分成，超额业绩设更高激励比例</p>
+    </div>
+  </div>
+</div>
+<div class="detail-row">
+  <div class="detail-card">
+    <p class="d-title">年度运营费用</p>
+    <p class="d-desc">委托方（平康纪）支付固定的年度运营管理费用，用于保障团队薪酬、日常管理等基础运营支出</p>
+  </div>
+  <div class="detail-card">
+    <p class="d-title">总体收入分成</p>
+    <p class="d-desc">诊所总体收入扣除成本后，由双方按照约定比例进行分成，确保收益分配公平透明</p>
+  </div>
+  <div class="detail-card">
+    <p class="d-title">激励机制</p>
+    <p class="d-desc">设立年度业绩目标，超额部分设置更高比例分成，激励双方共同创造更高价值</p>
+  </div>
+</div>
+</body>
+</html>

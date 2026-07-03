@@ -1,0 +1,301 @@
+{
+  "slide-0": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "泰禾康 & 朴润中医馆", "bold": true },
+        { "text": "TAIHEKANG & PARKRUN" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "共创健康新篇章", "bold": true },
+        { "text": "平康纪医疗门诊整体运营合作方案", "bold": true }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "汇报人：武静" },
+        { "text": "2026/07/02" }
+      ]
+    }
+  },
+  "slide-1": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "目  录", "bold": true },
+        { "text": "C O N T E N T" },
+        { "text": "01 关于我们", "bold": true },
+        { "text": "ABOUT US" },
+        { "text": "02 核心团队", "bold": true },
+        { "text": "CORE TEAM" },
+        { "text": "03 运营方案", "bold": true },
+        { "text": "OPERATION PLAN" },
+        { "text": "04 合作模式", "bold": true },
+        { "text": "COOPERATION MODE" }
+      ]
+    }
+  },
+  "slide-2": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "01 关于我们", "bold": true, "font_size": 36 },
+        { "text": "整合力量，专业致胜", "font_size": 24 }
+      ]
+    }
+  },
+  "slide-3": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "我们的愿景", "bold": true, "font_size": 36 },
+        { "text": "携手共进，共创健康未来", "font_size": 24 }
+      ]
+    }
+  },
+  "slide-4": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "泰禾康", "bold": true },
+        { "text": "TAIHEKANG HEALTH MANAGEMENT" }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "核心定位：专业健康管理与养生保健科技企业", "bullet": true, "level": 0 },
+        { "text": "整合力量：优质医疗健康养老服务资源整合", "bullet": true, "level": 0 },
+        { "text": "体系优势：评估-调理-养护全周期服务体系", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-5": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "朴润中医馆", "bold": true },
+        { "text": "PARKRUN CHINESE MEDICINE" }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "传承经典：秉承上医治未病理念", "bullet": true, "level": 0 },
+        { "text": "专业诊疗：中医内科、妇科、骨伤科特色专科", "bullet": true, "level": 0 },
+        { "text": "现代结合：传统技法与现代需求创新融合", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-6": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "02 核心团队", "bold": true, "font_size": 36 },
+        { "text": "精英荟萃，实力护航", "font_size": 24 }
+      ]
+    }
+  },
+  "slide-7": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "核心成员介绍", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "吕伟：核心负责人", "bold": true },
+        { "text": "13年康养深耕，主导7.69亿混改", "bullet": true, "level": 0 }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "鹿玮：运营总监", "bold": true },
+        { "text": "全球供应链专家，中医药出海领航", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-8": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "核心成员介绍", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "武静：行政办主任", "bold": true },
+        { "text": "政企关系专家，医疗运营负责人", "bullet": true, "level": 0 }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "刘振伟：体系院长", "bold": true },
+        { "text": "资深养老专家，省级最美护理员", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-9": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "核心成员介绍", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "黄辉：行政副院长", "bold": true },
+        { "text": "运营实战专家，安全管理能手", "bullet": true, "level": 0 }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "张华：中心总经理", "bold": true },
+        { "text": "10亿级爆品打造，大健康营销专家", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-10": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "核心成员介绍", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "朱冠静：核心成员", "bold": true },
+        { "text": "推动业务发展，专业敬业支撑", "bullet": true, "level": 0 }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "宋美华：核心成员", "bold": true },
+        { "text": "丰富运营经验，卓越执行支撑", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-11": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "核心成员展示", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "预留核心成员展示位", "bold": true }
+      ]
+    }
+  },
+  "slide-12": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "03 运营方案", "bold": true, "font_size": 36 },
+        { "text": "精准施策，价值共创", "font_size": 24 }
+      ]
+    }
+  },
+  "slide-13": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "总体运营策略", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "核心策略：中医为主，西医为辅", "bullet": true, "level": 0 },
+        { "text": "服务核心：慢病管理与特色疑难专科", "bullet": true, "level": 0 },
+        { "text": "终极目标：打造高附加值差异化服务", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-14": {
+    "shape-6": {
+      "paragraphs": [
+        { "text": "慢病管理中心", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "血压健康：建立档案、定期监测", "bold": true },
+        { "text": "代谢管理：血糖血脂尿酸综合调理", "bold": true }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "围绝经期：女性更年期中医调理", "bold": true },
+        { "text": "前列腺专科：男性健康评估与理疗", "bold": true }
+      ]
+    }
+  },
+  "slide-15": {
+    "shape-6": {
+      "paragraphs": [
+        { "text": "特色专科中心", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "口腔专护：中医护齿、日常指导", "bold": true },
+        { "text": "睡眠管理：针灸推拿、行为干预", "bold": true }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "创面管理：专业护理、康复服务", "bold": true }
+      ]
+    }
+  },
+  "slide-16": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "运营总结：业务矩阵", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "中医特色 + 西医辅助", "bullet": true, "level": 0 },
+        { "text": "慢病管理 + 特色专科", "bullet": true, "level": 0 },
+        { "text": "结构清晰、优势互补、覆盖全面", "bold": true }
+      ]
+    }
+  },
+  "slide-17": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "04 合作模式", "bold": true, "font_size": 36 },
+        { "text": "携手共赢，展望未来", "font_size": 24 }
+      ]
+    }
+  },
+  "slide-18": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "全面赋能，价值共创", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "整体托管运营：全面日常管理", "bullet": true, "level": 0 },
+        { "text": "优势项目保留：尊重平康纪特色", "bullet": true, "level": 0 },
+        { "text": "新增专科项目：引入擅长领域", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-19": {
+    "shape-4": {
+      "paragraphs": [
+        { "text": "收益模式", "bold": true }
+      ]
+    },
+    "shape-0": {
+      "paragraphs": [
+        { "text": "固定费用：年度运营费用保障薪酬", "bullet": true, "level": 0 },
+        { "text": "收益分成：按比例公平透明分配", "bullet": true, "level": 0 },
+        { "text": "激励机制：超额业绩高比例分成", "bullet": true, "level": 0 }
+      ]
+    }
+  },
+  "slide-20": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "感谢观看", "bold": true, "font_size": 36 }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "携手共进，共创辉煌", "font_size": 18 }
+      ]
+    }
+  }
+}

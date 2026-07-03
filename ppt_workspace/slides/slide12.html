@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 26pt 36pt 26pt 36pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #F8F4EE;
+  font-family: Arial, sans-serif;
+}
+.header { display: flex; align-items: center; gap: 10pt; margin-bottom: 20pt; }
+.header-line { width: 4pt; height: 20pt; background: #C4944A; }
+.header-title { color: #5C3D2E; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.reserve-card {
+  flex: 1 1 0;
+  min-height: 0;
+  background: #fff;
+  border: 2pt dashed #D4B896;
+  border-radius: 6pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12pt;
+}
+.reserve-icon {
+  width: 60pt; height: 60pt; border-radius: 50%;
+  background: #F0E8DE;
+  border: 2pt dashed #C4944A;
+  display: flex; align-items: center; justify-content: center;
+}
+.reserve-icon-text { color: #C4944A; font-size: 24pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.reserve-label { color: #8B5E3C; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.reserve-sub { color: #B09A84; font-size: 10pt; margin: 0; letter-spacing: 1pt; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-line"></div>
+  <p class="header-title">核心成员补充预留页</p>
+</div>
+<div class="reserve-card">
+  <div class="reserve-icon"><p class="reserve-icon-text">+</p></div>
+  <p class="reserve-label">预留核心成员展示位</p>
+  <p class="reserve-sub">后续补充</p>
+</div>
+</body>
+</html>

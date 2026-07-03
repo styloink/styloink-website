@@ -1,0 +1,5283 @@
+{
+  "slide-0": {
+    "shape-0": {
+      "left": 6.07,
+      "top": 0.99,
+      "width": 1.5,
+      "height": 0.45,
+      "estimated_text_bbox": {
+        "left": 6.08,
+        "top": 0.99,
+        "width": 1.32,
+        "height": 0.42
+      },
+      "paragraphs": [
+        {
+          "text": "中 艺 股 份",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.48
+        },
+        {
+          "text": "ZHONGYI ARCHITECTURE",
+          "font_name": "微软雅黑",
+          "font_size": 9.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.2
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 3.72,
+      "top": 4.76,
+      "width": 8.27,
+      "height": 1.67,
+      "estimated_text_bbox": {
+        "left": 4.55,
+        "top": 4.76,
+        "width": 2.66,
+        "height": 0.79
+      },
+      "paragraphs": [
+        {
+          "text": "ARCHITECTURE",
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "FFFFFF",
+          "line_spacing": 20.85
+        },
+        {
+          "text": "PROPOSAL",
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "FFFFFF",
+          "line_spacing": 42.9
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 4.94,
+      "top": 6.79,
+      "width": 2.09,
+      "height": 0.89,
+      "estimated_text_bbox": {
+        "left": 4.95,
+        "top": 6.79,
+        "width": 1.9,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "837690",
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "theme_color": "BACKGROUND_1",
+          "line_spacing": 17.2
+        },
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "space_before": 1.95,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "theme_color": "BACKGROUND_1",
+          "line_spacing": 8.88
+        },
+        {
+          "text": "FAX: 025 - 84540119 - 8019",
+          "space_before": 2.2,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "theme_color": "BACKGROUND_1",
+          "line_spacing": 17.2
+        },
+        {
+          "text": "E - MAIL:njzy sj@126 . com",
+          "space_before": 2.05,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "theme_color": "BACKGROUND_1",
+          "line_spacing": 9.0
+        }
+      ]
+    }
+  },
+  "slide-1": {
+    "shape-0": {
+      "left": 11.53,
+      "top": 1.48,
+      "width": 2.05,
+      "height": 5.5,
+      "estimated_text_bbox": {
+        "left": 11.54,
+        "top": 1.48,
+        "width": 1.83,
+        "height": 4.27
+      },
+      "paragraphs": [
+        {
+          "text": "目  录",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "bold": true,
+          "color": "231F20",
+          "line_spacing": 29.88
+        },
+        {
+          "text": "C O N T E N T",
+          "space_before": 10.0,
+          "font_name": "Calibri",
+          "font_size": 15.0,
+          "color": "57585A",
+          "line_spacing": 9.9
+        },
+        {
+          "text": "公司简介",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 12.04
+        },
+        {
+          "text": "INTRODUCTION",
+          "space_before": 1.35,
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 6.6
+        },
+        {
+          "text": "愿景 / 文化",
+          "space_before": 4.2,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.34
+        },
+        {
+          "text": "OUR VISION/CULTURE",
+          "space_before": 0.05,
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 9.6
+        },
+        {
+          "text": "服务模式及范围",
+          "space_before": 13.5,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 12.18
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 1.3,
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 6.8
+        },
+        {
+          "text": "我们的特点",
+          "space_before": 14.7,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 12.18
+        },
+        {
+          "text": "OUR CHARACTERISTICS",
+          "space_before": 2.0,
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 6.6
+        },
+        {
+          "text": "我们的奖项",
+          "space_before": 13.35,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 12.18
+        },
+        {
+          "text": "OUR ADWARDS",
+          "space_before": 1.95,
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 6.6
+        },
+        {
+          "text": "企业团队",
+          "space_before": 13.45,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 12.04
+        },
+        {
+          "text": "COMPANY TEAM",
+          "space_before": 2.85,
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 6.6
+        },
+        {
+          "text": "项目案例",
+          "space_before": 13.15,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 12.18
+        },
+        {
+          "text": "OUR PROJECT",
+          "space_before": 2.2,
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 6.6
+        },
+        {
+          "text": "数字化业务",
+          "space_before": 14.95,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 12.32
+        },
+        {
+          "text": "DIGITAL BUSINESS",
+          "space_before": 2.2,
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 6.6
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 0.94,
+      "top": 3.65,
+      "width": 2.8,
+      "height": 2.78,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.95,
+        "top": 3.65,
+        "width": 2.65,
+        "height": 1.99
+      },
+      "paragraphs": [
+        {
+          "text": "•  建筑行业（建筑工程）甲级资质",
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.8
+        },
+        {
+          "text": "•  风景园林工程设计专项乙级",
+          "space_before": 7.5,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        },
+        {
+          "text": "•  电力行业（送电工程、变电工程）专业丙级",
+          "space_before": 7.6,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        },
+        {
+          "text": "•  人防工程乙级",
+          "space_before": 7.5,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        },
+        {
+          "text": "•  公司成立于 1995 年",
+          "space_before": 3.05,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        },
+        {
+          "text": "•  国家高新技术企业",
+          "space_before": 7.6,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        },
+        {
+          "text": "•  建筑高新技术企业",
+          "space_before": 7.55,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        },
+        {
+          "text": "•  风景园林高新技术企业",
+          "space_before": 7.55,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        },
+        {
+          "text": "•  人防高新技术企业",
+          "space_before": 7.55,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        },
+        {
+          "text": "•  送变电新技术企业",
+          "space_before": 0.05,
+          "font_name": "微软雅黑",
+          "font_size": 10.0,
+          "color": "57585A",
+          "line_spacing": 8.7
+        }
+      ]
+    }
+  },
+  "slide-2": {
+    "shape-0": {
+      "left": 0.49,
+      "top": 2.14,
+      "width": 2.75,
+      "height": 5.09,
+      "estimated_text_bbox": {
+        "left": 0.5,
+        "top": 2.14,
+        "width": 2.82,
+        "height": 2.94
+      },
+      "paragraphs": [
+        {
+          "text": "成为一家专业的，能为客户创造价值的，有影响力受尊重的设计咨询企业。",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 14.42
+        },
+        {
+          "text": "Become a professional, influential   and respected design consulting     company that can create value for  customers.",
+          "space_before": 13.6,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 14.88
+        },
+        {
+          "text": "愿景/文化",
+          "space_before": 10.9,
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 29.16
+        },
+        {
+          "text": "OUR VISION/ CULTURE",
+          "space_before": 0.4,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 27.3
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 12.64,
+      "top": 4.24,
+      "width": 3.4,
+      "height": 3.51,
+      "estimated_text_bbox": {
+        "left": 13.23,
+        "top": 4.24,
+        "width": 1.99,
+        "height": 2.03
+      },
+      "paragraphs": [
+        {
+          "text": "合作共赢，厚德载",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 14.76
+        },
+        {
+          "text": "物，自强不息。",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 26.0
+        },
+        {
+          "text": "Cooperate for win-win",
+          "space_before": 4.3,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "results, carry virtue",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "and resources, and",
+          "space_before": 3.95,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "constantly strive for",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "self-improvement.",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        }
+      ]
+    }
+  },
+  "slide-3": {
+    "shape-0": {
+      "left": 0.49,
+      "top": 2.14,
+      "width": 2.75,
+      "height": 5.09,
+      "estimated_text_bbox": {
+        "left": 0.5,
+        "top": 2.14,
+        "width": 2.82,
+        "height": 2.94
+      },
+      "paragraphs": [
+        {
+          "text": "成为一家专业的，能为客户创造价值的，有影响力受尊重的设计咨询企业。",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 14.42
+        },
+        {
+          "text": "Become a professional, influential   and respected design consulting     company that can create value for  customers.",
+          "space_before": 13.6,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 14.88
+        },
+        {
+          "text": "愿景/文化",
+          "space_before": 10.9,
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 29.16
+        },
+        {
+          "text": "OUR VISION/ CULTURE",
+          "space_before": 0.4,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 27.3
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 12.64,
+      "top": 4.24,
+      "width": 3.4,
+      "height": 3.51,
+      "estimated_text_bbox": {
+        "left": 13.23,
+        "top": 4.24,
+        "width": 1.99,
+        "height": 2.03
+      },
+      "paragraphs": [
+        {
+          "text": "合作共赢，厚德载",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 14.76
+        },
+        {
+          "text": "物，自强不息。",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 26.0
+        },
+        {
+          "text": "Cooperate for win-win",
+          "space_before": 4.3,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "results, carry virtue",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "and resources, and",
+          "space_before": 3.95,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "constantly strive for",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "self-improvement.",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        }
+      ]
+    }
+  },
+  "slide-4": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-5": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-6": {
+    "shape-0": {
+      "left": 0.49,
+      "top": 2.14,
+      "width": 2.75,
+      "height": 5.09,
+      "estimated_text_bbox": {
+        "left": 0.5,
+        "top": 2.14,
+        "width": 2.82,
+        "height": 2.94
+      },
+      "paragraphs": [
+        {
+          "text": "成为一家专业的，能为客户创造价值的，有影响力受尊重的设计咨询企业。",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 14.42
+        },
+        {
+          "text": "Become a professional, influential   and respected design consulting     company that can create value for  customers.",
+          "space_before": 13.6,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 14.88
+        },
+        {
+          "text": "愿景/文化",
+          "space_before": 10.9,
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 29.16
+        },
+        {
+          "text": "OUR VISION/ CULTURE",
+          "space_before": 0.4,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 27.3
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 12.64,
+      "top": 4.24,
+      "width": 3.4,
+      "height": 3.51,
+      "estimated_text_bbox": {
+        "left": 13.23,
+        "top": 4.24,
+        "width": 1.99,
+        "height": 2.03
+      },
+      "paragraphs": [
+        {
+          "text": "合作共赢，厚德载",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 14.76
+        },
+        {
+          "text": "物，自强不息。",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 26.0
+        },
+        {
+          "text": "Cooperate for win-win",
+          "space_before": 4.3,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "results, carry virtue",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "and resources, and",
+          "space_before": 3.95,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "constantly strive for",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "self-improvement.",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        }
+      ]
+    }
+  },
+  "slide-7": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-8": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-9": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-10": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-11": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-12": {
+    "shape-0": {
+      "left": 0.49,
+      "top": 2.14,
+      "width": 2.75,
+      "height": 5.09,
+      "estimated_text_bbox": {
+        "left": 0.5,
+        "top": 2.14,
+        "width": 2.82,
+        "height": 2.94
+      },
+      "paragraphs": [
+        {
+          "text": "成为一家专业的，能为客户创造价值的，有影响力受尊重的设计咨询企业。",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 14.42
+        },
+        {
+          "text": "Become a professional, influential   and respected design consulting     company that can create value for  customers.",
+          "space_before": 13.6,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 14.88
+        },
+        {
+          "text": "愿景/文化",
+          "space_before": 10.9,
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 29.16
+        },
+        {
+          "text": "OUR VISION/ CULTURE",
+          "space_before": 0.4,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 27.3
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 12.64,
+      "top": 4.24,
+      "width": 3.4,
+      "height": 3.51,
+      "estimated_text_bbox": {
+        "left": 13.23,
+        "top": 4.24,
+        "width": 1.99,
+        "height": 2.03
+      },
+      "paragraphs": [
+        {
+          "text": "合作共赢，厚德载",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 14.76
+        },
+        {
+          "text": "物，自强不息。",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 26.0
+        },
+        {
+          "text": "Cooperate for win-win",
+          "space_before": 4.3,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "results, carry virtue",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "and resources, and",
+          "space_before": 3.95,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "constantly strive for",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "self-improvement.",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        }
+      ]
+    }
+  },
+  "slide-13": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-14": {
+    "shape-0": {
+      "left": 4.37,
+      "top": 0.5,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.04,
+        "top": 0.5,
+        "width": 1.66,
+        "height": 0.8
+      },
+      "paragraphs": [
+        {
+          "text": "•     医养建筑",
+          "space_before": 0.05,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "HEALTH",
+          "space_before": 2.9,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     学校建筑",
+          "space_before": 5.5,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "SCHOOL",
+          "space_before": 1.75,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 8.77,
+      "top": 0.5,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 9.48,
+        "top": 0.5,
+        "width": 2.38,
+        "height": 0.82
+      },
+      "paragraphs": [
+        {
+          "text": "•     办公、厂房建筑",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "OFFIC AND PLANT",
+          "space_before": 2.75,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     住宅建筑",
+          "space_before": 5.5,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "RESIDENTIAL",
+          "space_before": 3.5,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 12.64,
+      "top": 0.5,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 13.05,
+        "top": 0.5,
+        "width": 1.66,
+        "height": 0.82
+      },
+      "paragraphs": [
+        {
+          "text": "•     生态建筑",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "ECOLOGICAL",
+          "space_before": 2.75,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     景观建筑",
+          "space_before": 5.5,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "LANDSCAPE",
+          "space_before": 3.5,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 4.37,
+      "top": 4.26,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.04,
+        "top": 4.26,
+        "width": 2.06,
+        "height": 0.77
+      },
+      "paragraphs": [
+        {
+          "text": "•     文体建筑",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "CULTURE AND SPORTS",
+          "space_before": 2.95,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     商业建筑",
+          "space_before": 5.4,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "COMMERCIAL",
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 8.77,
+      "top": 4.26,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 9.48,
+        "top": 4.26,
+        "width": 1.66,
+        "height": 0.77
+      },
+      "paragraphs": [
+        {
+          "text": "•     改造建筑",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "RENOVATION",
+          "space_before": 2.95,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     乡村建筑",
+          "space_before": 5.4,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "RURAL",
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 12.64,
+      "top": 4.24,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 13.12,
+        "top": 4.24,
+        "width": 1.66,
+        "height": 0.37
+      },
+      "paragraphs": [
+        {
+          "text": "•     室内建筑",
+          "space_before": 0.05,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "INTERIOR",
+          "space_before": 2.95,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 0.49,
+      "top": 5.79,
+      "width": 2.74,
+      "height": 0.98,
+      "estimated_text_bbox": {
+        "left": 0.5,
+        "top": 5.79,
+        "width": 2.41,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "项目案例",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "OUR PROJECT",
+          "space_before": 6.95,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 19.8
+        }
+      ]
+    }
+  },
+  "slide-15": {
+    "shape-0": {
+      "left": 4.37,
+      "top": 0.5,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.04,
+        "top": 0.5,
+        "width": 1.66,
+        "height": 0.8
+      },
+      "paragraphs": [
+        {
+          "text": "•     医养建筑",
+          "space_before": 0.05,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "HEALTH",
+          "space_before": 2.9,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     学校建筑",
+          "space_before": 5.5,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "SCHOOL",
+          "space_before": 1.75,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 8.77,
+      "top": 0.5,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 9.48,
+        "top": 0.5,
+        "width": 2.38,
+        "height": 0.82
+      },
+      "paragraphs": [
+        {
+          "text": "•     办公、厂房建筑",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "OFFIC AND PLANT",
+          "space_before": 2.75,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     住宅建筑",
+          "space_before": 5.5,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "RESIDENTIAL",
+          "space_before": 3.5,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 12.64,
+      "top": 0.5,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 13.05,
+        "top": 0.5,
+        "width": 1.66,
+        "height": 0.82
+      },
+      "paragraphs": [
+        {
+          "text": "•     生态建筑",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "ECOLOGICAL",
+          "space_before": 2.75,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     景观建筑",
+          "space_before": 5.5,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "LANDSCAPE",
+          "space_before": 3.5,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 4.37,
+      "top": 4.26,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.04,
+        "top": 4.26,
+        "width": 2.06,
+        "height": 0.77
+      },
+      "paragraphs": [
+        {
+          "text": "•     文体建筑",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "CULTURE AND SPORTS",
+          "space_before": 2.95,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     商业建筑",
+          "space_before": 5.4,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "COMMERCIAL",
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 8.77,
+      "top": 4.26,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 9.48,
+        "top": 4.26,
+        "width": 1.66,
+        "height": 0.77
+      },
+      "paragraphs": [
+        {
+          "text": "•     改造建筑",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "RENOVATION",
+          "space_before": 2.95,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        },
+        {
+          "text": "•     乡村建筑",
+          "space_before": 5.4,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "RURAL",
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 12.64,
+      "top": 4.24,
+      "width": 3.4,
+      "height": 3.51,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 13.12,
+        "top": 4.24,
+        "width": 1.66,
+        "height": 0.37
+      },
+      "paragraphs": [
+        {
+          "text": "•     室内建筑",
+          "space_before": 0.05,
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.66
+        },
+        {
+          "text": "INTERIOR",
+          "space_before": 2.95,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 0.49,
+      "top": 5.79,
+      "width": 2.74,
+      "height": 0.98,
+      "estimated_text_bbox": {
+        "left": 0.5,
+        "top": 5.79,
+        "width": 2.41,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "项目案例",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "OUR PROJECT",
+          "space_before": 6.95,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 19.8
+        }
+      ]
+    }
+  },
+  "slide-16": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-17": {
+    "shape-0": {
+      "left": 0.49,
+      "top": 2.14,
+      "width": 2.75,
+      "height": 5.09,
+      "estimated_text_bbox": {
+        "left": 0.5,
+        "top": 2.14,
+        "width": 2.82,
+        "height": 2.94
+      },
+      "paragraphs": [
+        {
+          "text": "成为一家专业的，能为客户创造价值的，有影响力受尊重的设计咨询企业。",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 14.42
+        },
+        {
+          "text": "Become a professional, influential   and respected design consulting     company that can create value for  customers.",
+          "space_before": 13.6,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 14.88
+        },
+        {
+          "text": "愿景/文化",
+          "space_before": 10.9,
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 29.16
+        },
+        {
+          "text": "OUR VISION/ CULTURE",
+          "space_before": 0.4,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 27.3
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 12.64,
+      "top": 4.24,
+      "width": 3.4,
+      "height": 3.51,
+      "estimated_text_bbox": {
+        "left": 13.23,
+        "top": 4.24,
+        "width": 1.99,
+        "height": 2.03
+      },
+      "paragraphs": [
+        {
+          "text": "合作共赢，厚德载",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 14.76
+        },
+        {
+          "text": "物，自强不息。",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 26.0
+        },
+        {
+          "text": "Cooperate for win-win",
+          "space_before": 4.3,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "results, carry virtue",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "and resources, and",
+          "space_before": 3.95,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "constantly strive for",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        },
+        {
+          "text": "self-improvement.",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 22.0
+        }
+      ]
+    }
+  },
+  "slide-18": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-19": {
+    "shape-0": {
+      "left": 0.73,
+      "top": 1.69,
+      "width": 1.74,
+      "height": 1.66,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 0.73,
+        "top": 1.69,
+        "width": 1.3,
+        "height": 1.5
+      },
+      "paragraphs": [
+        {
+          "text": "•  规划建筑设计",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Planning and architectural design",
+          "alignment": "RIGHT",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  电力设计",
+          "space_before": 10.2,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.72
+        },
+        {
+          "text": "Electric power design",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 6.93
+        },
+        {
+          "text": "•  景观设计",
+          "space_before": 12.1,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Landscape design",
+          "space_before": 0.15,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  装饰设计",
+          "space_before": 10.4,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Decorative design",
+          "space_before": 0.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 2.87,
+      "top": 1.68,
+      "width": 2.46,
+      "height": 1.23,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 2.87,
+        "top": 1.68,
+        "width": 1.99,
+        "height": 1.11
+      },
+      "paragraphs": [
+        {
+          "text": "•  商业策划与咨询",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.32
+        },
+        {
+          "text": "Business planning and consulting",
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  工程技术开发咨询",
+          "space_before": 10.85,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Engineering technology development consulting",
+          "alignment": "RIGHT",
+          "space_before": 0.2,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        },
+        {
+          "text": "•  全过程工程咨询服务",
+          "space_before": 10.35,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Whole process engineering consulting services",
+          "space_before": 0.9,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 5.68,
+      "top": 1.67,
+      "width": 2.49,
+      "height": 1.29,
+      "warnings": [
+        "manual_bullet_symbol: use proper bullet formatting"
+      ],
+      "estimated_text_bbox": {
+        "left": 5.68,
+        "top": 1.67,
+        "width": 2.15,
+        "height": 0.78
+      },
+      "paragraphs": [
+        {
+          "text": "•  BIM技术                                 BIM technology",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.92
+        },
+        {
+          "text": "•  EPC工程总承包                        EPC",
+          "space_before": 11.3,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 9.96
+        },
+        {
+          "text": "•  装配式建筑设计及深化设计",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 10.44
+        },
+        {
+          "text": "Assembled building design and deepening design",
+          "alignment": "RIGHT",
+          "space_before": 1.55,
+          "font_name": "Calibri",
+          "font_size": 7.0,
+          "color": "57585A",
+          "line_spacing": 8.85
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 11.77,
+      "top": 1.22,
+      "width": 3.36,
+      "height": 1.1,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 1.22,
+        "width": 3.32,
+        "height": 0.81
+      },
+      "paragraphs": [
+        {
+          "text": "致力于在建设的细分领域形成集咨",
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 13.12
+        },
+        {
+          "text": "询、规划、设计、实施、资本为一体的全产业链服务公司。",
+          "space_before": 0.2,
+          "font_name": "微软雅黑",
+          "font_size": 16.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.6
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 0.75,
+      "top": 3.85,
+      "width": 6.13,
+      "height": 3.0,
+      "estimated_text_bbox": {
+        "left": 0.76,
+        "top": 3.85,
+        "width": 5.53,
+        "height": 1.94
+      },
+      "paragraphs": [
+        {
+          "text": "服务模式及范围",
+          "font_name": "微软雅黑",
+          "font_size": 36.0,
+          "color": "231F20",
+          "line_spacing": 31.32
+        },
+        {
+          "text": "HOW IT WORKS&OUR SERVICES",
+          "space_before": 14.8,
+          "font_name": "Calibri",
+          "font_size": 30.0,
+          "color": "231F20",
+          "line_spacing": 20.4
+        },
+        {
+          "text": "为客户提供一站式、菜单式的专",
+          "space_before": 4.25,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "57585A",
+          "line_spacing": 11.62
+        },
+        {
+          "text": "家级服务。",
+          "font_name": "微软雅黑",
+          "font_size": 13.0,
+          "color": "57585A",
+          "line_spacing": 24.0
+        },
+        {
+          "text": "Provide customers with one-stop,",
+          "space_before": 3.7,
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 15.5
+        },
+        {
+          "text": "menu-based expert services.",
+          "font_name": "微软雅黑",
+          "font_size": 12.0,
+          "color": "57585A",
+          "line_spacing": 18.0
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.69,
+      "top": 4.03,
+      "width": 2.84,
+      "height": 2.41,
+      "estimated_text_bbox": {
+        "left": 8.7,
+        "top": 4.03,
+        "width": 2.84,
+        "height": 1.92
+      },
+      "paragraphs": [
+        {
+          "text": "It is committed to forming a",
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 18.05
+        },
+        {
+          "text": "full-industry chain service com- pany integrating consultation,  planning, design, implementa-  tion and capital in the construc- tion field.",
+          "space_before": 2.85,
+          "font_name": "微软雅黑",
+          "font_size": 14.0,
+          "color": "FFFFFF",
+          "line_spacing": 25.06
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 11.78,
+      "top": 7.29,
+      "width": 1.25,
+      "height": 0.15,
+      "estimated_text_bbox": {
+        "left": 11.79,
+        "top": 7.29,
+        "width": 0.99,
+        "height": 0.1
+      },
+      "paragraphs": [
+        {
+          "text": "HTTP://ZYJZSJ. CN",
+          "font_name": "Calibri",
+          "font_size": 10.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.4
+        }
+      ]
+    }
+  },
+  "slide-20": {
+    "shape-0": {
+      "left": 7.64,
+      "top": 2.41,
+      "width": 1.25,
+      "height": 0.45,
+      "estimated_text_bbox": {
+        "left": 7.67,
+        "top": 2.41,
+        "width": 0.95,
+        "height": 0.21
+      },
+      "paragraphs": [
+        {
+          "text": "感谢观看",
+          "font_name": "微软雅黑",
+          "font_size": 18.0,
+          "bold": true,
+          "color": "FFFFFF",
+          "line_spacing": 15.48
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 6.98,
+      "top": 4.57,
+      "width": 2.69,
+      "height": 0.63,
+      "estimated_text_bbox": {
+        "left": 6.99,
+        "top": 4.57,
+        "width": 2.65,
+        "height": 0.5
+      },
+      "paragraphs": [
+        {
+          "text": "LINGJIAOSHI66,GUOCHUANGYUAN8-B",
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 8.16
+        },
+        {
+          "text": "025 - 84540119 - 8019",
+          "space_before": 2.95,
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 17.2
+        },
+        {
+          "text": "www.ZYJZSJ.CN",
+          "font_name": "Calibri",
+          "font_size": 12.0,
+          "color": "FFFFFF",
+          "line_spacing": 7.92
+        }
+      ]
+    }
+  }
+}

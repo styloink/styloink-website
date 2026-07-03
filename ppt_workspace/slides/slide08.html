@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 26pt 36pt 26pt 36pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #F8F4EE;
+  font-family: Arial, sans-serif;
+}
+.header { display: flex; align-items: center; gap: 10pt; margin-bottom: 18pt; }
+.header-line { width: 4pt; height: 20pt; background: #C4944A; }
+.header-title { color: #5C3D2E; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.members-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16pt;
+  flex: 1 1 0;
+  min-height: 0;
+}
+.member-card {
+  background: #fff;
+  border: 1pt solid #D4B896;
+  border-radius: 4pt;
+  padding: 16pt 18pt;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 8pt;
+  min-height: 0;
+}
+.m-top { display: flex; align-items: center; gap: 12pt; }
+.m-avatar {
+  width: 44pt; height: 44pt; border-radius: 50%;
+  background: #5C3D2E;
+  display: flex; align-items: center; justify-content: center;
+  min-width: 44pt;
+}
+.m-avatar-text { color: #C4944A; font-size: 16pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.m-info {}
+.m-name { color: #5C3D2E; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.m-role { color: #C4944A; font-size: 9pt; margin: 2pt 0 0 0; letter-spacing: 1pt; }
+.m-tags { display: flex; gap: 6pt; flex-wrap: wrap; }
+.m-tag {
+  background: #F0E8DE; border: 1pt solid #D4B896; border-radius: 2pt;
+  padding: 2pt 8pt;
+}
+.m-tag-text { color: #8B5E3C; font-size: 8.5pt; margin: 0; }
+.m-divider { width: 100%; height: 1pt; background: #E8DDD0; }
+.m-points { margin: 0; padding: 0; }
+.m-point { color: #6B5040; font-size: 9pt; line-height: 1.6; margin: 0; padding: 0; list-style: none; padding-left: 10pt; position: relative; }
+.m-point::before { content: "·"; position: absolute; left: 0; color: #C4944A; }
+.highlight { color: #C4944A; font-weight: bold; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-line"></div>
+  <p class="header-title">核心成员介绍（一）</p>
+</div>
+<div class="members-row">
+  <div class="member-card">
+    <div class="m-top">
+      <div class="m-avatar"><p class="m-avatar-text">吕</p></div>
+      <div class="m-info">
+        <p class="m-name">吕伟</p>
+        <p class="m-role">核心负责人 · 康养项目操盘手</p>
+      </div>
+    </div>
+    <div class="m-tags">
+      <div class="m-tag"><p class="m-tag-text">核心负责人</p></div>
+      <div class="m-tag"><p class="m-tag-text">资本运作专家</p></div>
+    </div>
+    <div class="m-divider"></div>
+    <ul class="m-points">
+      <li class="m-point"><span class="highlight">13年</span>健康养老产业深耕，完整经历超大规模康养项目全周期开发运营</li>
+      <li class="m-point">主导完成<span class="highlight">7.69亿元</span>混改引资；5年实现一期销售额近<span class="highlight">20亿元</span></li>
+      <li class="m-point">精通重资产投资与轻资产运营协同</li>
+    </ul>
+  </div>
+  <div class="member-card">
+    <div class="m-top">
+      <div class="m-avatar"><p class="m-avatar-text">鹿</p></div>
+      <div class="m-info">
+        <p class="m-name">鹿玮</p>
+        <p class="m-role">康养供应链运营总监</p>
+      </div>
+    </div>
+    <div class="m-tags">
+      <div class="m-tag"><p class="m-tag-text">全球供应链搭建者</p></div>
+      <div class="m-tag"><p class="m-tag-text">中医药出海领航者</p></div>
+    </div>
+    <div class="m-divider"></div>
+    <ul class="m-points">
+      <li class="m-point"><span class="highlight">13年</span>生产管理及贸易经验，精通全球供应链搭建与管理</li>
+      <li class="m-point">主导引进顶尖技术，实现高端消毒产品国产化</li>
+      <li class="m-point">成功将中医药产品出口至<span class="highlight">日、德、英、美</span>等发达国家</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>

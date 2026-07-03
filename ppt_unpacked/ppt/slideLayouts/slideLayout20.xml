@@ -1,0 +1,5346 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" preserve="1" showMasterSp="0" userDrawn="1">
+  <p:cSld name="&#31456;&#33410;&#39029;_1_4">
+    <p:bg>
+      <p:bgRef idx="1001">
+        <a:schemeClr val="bg1"/>
+      </p:bgRef>
+    </p:bg>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="8" name="&#30697;&#24418;: &#22278;&#35282; 7"/>
+          <p:cNvSpPr/>
+          <p:nvPr userDrawn="1">
+            <p:custDataLst>
+              <p:tags r:id="rId2"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="12192000" cy="6858000"/>
+          </a:xfrm>
+          <a:prstGeom prst="roundRect">
+            <a:avLst>
+              <a:gd name="adj" fmla="val 0"/>
+            </a:avLst>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="bg2">
+              <a:lumMod val="32656"/>
+              <a:lumOff val="67344"/>
+            </a:schemeClr>
+          </a:solidFill>
+          <a:ln w="12700" cap="flat" cmpd="sng" algn="ctr">
+            <a:noFill/>
+            <a:prstDash val="solid"/>
+            <a:miter lim="800000"/>
+          </a:ln>
+          <a:effectLst/>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="9" name="&#30697;&#24418;: &#22278;&#35282; 8"/>
+          <p:cNvSpPr/>
+          <p:nvPr userDrawn="1">
+            <p:custDataLst>
+              <p:tags r:id="rId3"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="521335" y="468630"/>
+            <a:ext cx="11146155" cy="5861685"/>
+          </a:xfrm>
+          <a:prstGeom prst="roundRect">
+            <a:avLst>
+              <a:gd name="adj" fmla="val 2564"/>
+            </a:avLst>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="bg1"/>
+          </a:solidFill>
+          <a:ln>
+            <a:solidFill>
+              <a:schemeClr val="bg2">
+                <a:lumMod val="59180"/>
+                <a:lumOff val="40820"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+          <a:effectLst>
+            <a:outerShdw blurRad="190500" sx="101000" sy="101000" algn="ctr" rotWithShape="0">
+              <a:schemeClr val="accent3">
+                <a:alpha val="30000"/>
+              </a:schemeClr>
+            </a:outerShdw>
+          </a:effectLst>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="12" name="&#30452;&#25509;&#36830;&#25509;&#31526; 11"/>
+          <p:cNvCxnSpPr/>
+          <p:nvPr userDrawn="1">
+            <p:custDataLst>
+              <p:tags r:id="rId4"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1007110" y="1379220"/>
+            <a:ext cx="10116820" cy="0"/>
+          </a:xfrm>
+          <a:prstGeom prst="line">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="accent1"/>
+            </a:solidFill>
+            <a:prstDash val="sysDot"/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="tx1"/>
+          </a:fontRef>
+        </p:style>
+      </p:cxnSp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="30" name="&#30697;&#24418;: &#22278;&#35282; 29"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId5"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="12192000" cy="6020979"/>
+          </a:xfrm>
+          <a:prstGeom prst="roundRect">
+            <a:avLst>
+              <a:gd name="adj" fmla="val 0"/>
+            </a:avLst>
+          </a:prstGeom>
+          <a:gradFill flip="none" rotWithShape="1">
+            <a:gsLst>
+              <a:gs pos="4000">
+                <a:schemeClr val="accent1"/>
+              </a:gs>
+              <a:gs pos="100000">
+                <a:schemeClr val="accent1">
+                  <a:lumMod val="85000"/>
+                  <a:lumOff val="15000"/>
+                </a:schemeClr>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+            <a:tileRect/>
+          </a:gradFill>
+          <a:ln w="12700" cap="flat" cmpd="sng" algn="ctr">
+            <a:noFill/>
+            <a:prstDash val="solid"/>
+            <a:miter lim="800000"/>
+          </a:ln>
+          <a:effectLst/>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr lvl="0" algn="ctr">
+              <a:buClrTx/>
+              <a:buSzTx/>
+              <a:buFontTx/>
+            </a:pPr>
+            <a:endParaRPr lang="zh-CN" altLang="en-US">
+              <a:sym typeface="+mn-ea"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="31" name="&#30697;&#24418; 15"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId6"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="0" y="5063044"/>
+            <a:ext cx="12192000" cy="1794956"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1488831"/>
+              <a:gd name="connsiteX1" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 1488831"/>
+              <a:gd name="connsiteX2" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY2" fmla="*/ 1488831 h 1488831"/>
+              <a:gd name="connsiteX3" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY3" fmla="*/ 1488831 h 1488831"/>
+              <a:gd name="connsiteX4" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY4" fmla="*/ 0 h 1488831"/>
+              <a:gd name="connsiteX0-1" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY0-2" fmla="*/ 186104 h 1674935"/>
+              <a:gd name="connsiteX1-3" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY1-4" fmla="*/ 186104 h 1674935"/>
+              <a:gd name="connsiteX2-5" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY2-6" fmla="*/ 1674935 h 1674935"/>
+              <a:gd name="connsiteX3-7" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY3-8" fmla="*/ 1674935 h 1674935"/>
+              <a:gd name="connsiteX4-9" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY4-10" fmla="*/ 186104 h 1674935"/>
+              <a:gd name="connsiteX0-11" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY0-12" fmla="*/ 406764 h 1895595"/>
+              <a:gd name="connsiteX1-13" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY1-14" fmla="*/ 406764 h 1895595"/>
+              <a:gd name="connsiteX2-15" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY2-16" fmla="*/ 1895595 h 1895595"/>
+              <a:gd name="connsiteX3-17" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY3-18" fmla="*/ 1895595 h 1895595"/>
+              <a:gd name="connsiteX4-19" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY4-20" fmla="*/ 406764 h 1895595"/>
+              <a:gd name="connsiteX0-21" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY0-22" fmla="*/ 542912 h 2031743"/>
+              <a:gd name="connsiteX1-23" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY1-24" fmla="*/ 542912 h 2031743"/>
+              <a:gd name="connsiteX2-25" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY2-26" fmla="*/ 2031743 h 2031743"/>
+              <a:gd name="connsiteX3-27" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY3-28" fmla="*/ 2031743 h 2031743"/>
+              <a:gd name="connsiteX4-29" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY4-30" fmla="*/ 542912 h 2031743"/>
+              <a:gd name="connsiteX0-31" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY0-32" fmla="*/ 608420 h 2097251"/>
+              <a:gd name="connsiteX1-33" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY1-34" fmla="*/ 608420 h 2097251"/>
+              <a:gd name="connsiteX2-35" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY2-36" fmla="*/ 2097251 h 2097251"/>
+              <a:gd name="connsiteX3-37" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY3-38" fmla="*/ 2097251 h 2097251"/>
+              <a:gd name="connsiteX4-39" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY4-40" fmla="*/ 608420 h 2097251"/>
+              <a:gd name="connsiteX0-41" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY0-42" fmla="*/ 656676 h 2145507"/>
+              <a:gd name="connsiteX1-43" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY1-44" fmla="*/ 656676 h 2145507"/>
+              <a:gd name="connsiteX2-45" fmla="*/ 12192000 w 12192000"/>
+              <a:gd name="connsiteY2-46" fmla="*/ 2145507 h 2145507"/>
+              <a:gd name="connsiteX3-47" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY3-48" fmla="*/ 2145507 h 2145507"/>
+              <a:gd name="connsiteX4-49" fmla="*/ 0 w 12192000"/>
+              <a:gd name="connsiteY4-50" fmla="*/ 656676 h 2145507"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0-1" y="connsiteY0-2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1-3" y="connsiteY1-4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2-5" y="connsiteY2-6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3-7" y="connsiteY3-8"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4-9" y="connsiteY4-10"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="12192000" h="2145507">
+                <a:moveTo>
+                  <a:pt x="0" y="656676"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="1785816" y="-189340"/>
+                  <a:pt x="9456615" y="-247955"/>
+                  <a:pt x="12192000" y="656676"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="12192000" y="2145507"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="0" y="2145507"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="0" y="656676"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:srgbClr val="EFF5FF"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="33" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 32"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId7"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1537335" y="5387340"/>
+            <a:ext cx="819150" cy="784225"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 692283 w 1303881"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1248506"/>
+              <a:gd name="connsiteX1" fmla="*/ 1108452 w 1303881"/>
+              <a:gd name="connsiteY1" fmla="*/ 416169 h 1248506"/>
+              <a:gd name="connsiteX2" fmla="*/ 1099997 w 1303881"/>
+              <a:gd name="connsiteY2" fmla="*/ 500041 h 1248506"/>
+              <a:gd name="connsiteX3" fmla="*/ 1085426 w 1303881"/>
+              <a:gd name="connsiteY3" fmla="*/ 546982 h 1248506"/>
+              <a:gd name="connsiteX4" fmla="*/ 1142225 w 1303881"/>
+              <a:gd name="connsiteY4" fmla="*/ 577812 h 1248506"/>
+              <a:gd name="connsiteX5" fmla="*/ 1303881 w 1303881"/>
+              <a:gd name="connsiteY5" fmla="*/ 881849 h 1248506"/>
+              <a:gd name="connsiteX6" fmla="*/ 1011118 w 1303881"/>
+              <a:gd name="connsiteY6" fmla="*/ 1241057 h 1248506"/>
+              <a:gd name="connsiteX7" fmla="*/ 1009427 w 1303881"/>
+              <a:gd name="connsiteY7" fmla="*/ 1241228 h 1248506"/>
+              <a:gd name="connsiteX8" fmla="*/ 1009427 w 1303881"/>
+              <a:gd name="connsiteY8" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX9" fmla="*/ 937234 w 1303881"/>
+              <a:gd name="connsiteY9" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX10" fmla="*/ 937224 w 1303881"/>
+              <a:gd name="connsiteY10" fmla="*/ 1248506 h 1248506"/>
+              <a:gd name="connsiteX11" fmla="*/ 937214 w 1303881"/>
+              <a:gd name="connsiteY11" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX12" fmla="*/ 366667 w 1303881"/>
+              <a:gd name="connsiteY12" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX13" fmla="*/ 366657 w 1303881"/>
+              <a:gd name="connsiteY13" fmla="*/ 1248506 h 1248506"/>
+              <a:gd name="connsiteX14" fmla="*/ 366647 w 1303881"/>
+              <a:gd name="connsiteY14" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX15" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY15" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX16" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY16" fmla="*/ 1235889 h 1248506"/>
+              <a:gd name="connsiteX17" fmla="*/ 223938 w 1303881"/>
+              <a:gd name="connsiteY17" fmla="*/ 1219693 h 1248506"/>
+              <a:gd name="connsiteX18" fmla="*/ 0 w 1303881"/>
+              <a:gd name="connsiteY18" fmla="*/ 881849 h 1248506"/>
+              <a:gd name="connsiteX19" fmla="*/ 223938 w 1303881"/>
+              <a:gd name="connsiteY19" fmla="*/ 544006 h 1248506"/>
+              <a:gd name="connsiteX20" fmla="*/ 291688 w 1303881"/>
+              <a:gd name="connsiteY20" fmla="*/ 522975 h 1248506"/>
+              <a:gd name="connsiteX21" fmla="*/ 284569 w 1303881"/>
+              <a:gd name="connsiteY21" fmla="*/ 500041 h 1248506"/>
+              <a:gd name="connsiteX22" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY22" fmla="*/ 416169 h 1248506"/>
+              <a:gd name="connsiteX23" fmla="*/ 692283 w 1303881"/>
+              <a:gd name="connsiteY23" fmla="*/ 0 h 1248506"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX8" y="connsiteY8"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX9" y="connsiteY9"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX10" y="connsiteY10"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX11" y="connsiteY11"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX12" y="connsiteY12"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX13" y="connsiteY13"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX14" y="connsiteY14"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX15" y="connsiteY15"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX16" y="connsiteY16"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX17" y="connsiteY17"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX18" y="connsiteY18"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX19" y="connsiteY19"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX20" y="connsiteY20"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX21" y="connsiteY21"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX22" y="connsiteY22"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX23" y="connsiteY23"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="1303881" h="1248506">
+                <a:moveTo>
+                  <a:pt x="692283" y="0"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="922127" y="0"/>
+                  <a:pt x="1108452" y="186325"/>
+                  <a:pt x="1108452" y="416169"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1108452" y="444899"/>
+                  <a:pt x="1105541" y="472950"/>
+                  <a:pt x="1099997" y="500041"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1085426" y="546982"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1142225" y="577812"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="1239757" y="643702"/>
+                  <a:pt x="1303881" y="755287"/>
+                  <a:pt x="1303881" y="881849"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1303881" y="1059036"/>
+                  <a:pt x="1178198" y="1206868"/>
+                  <a:pt x="1011118" y="1241057"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1009427" y="1241228"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1009427" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937234" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937224" y="1248506"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937214" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366667" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366657" y="1248506"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366647" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="276114" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="276114" y="1235889"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="223938" y="1219693"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="92339" y="1164031"/>
+                  <a:pt x="0" y="1033723"/>
+                  <a:pt x="0" y="881849"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="0" y="729975"/>
+                  <a:pt x="92339" y="599668"/>
+                  <a:pt x="223938" y="544006"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="291688" y="522975"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="284569" y="500041"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="279025" y="472950"/>
+                  <a:pt x="276114" y="444899"/>
+                  <a:pt x="276114" y="416169"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="276114" y="186325"/>
+                  <a:pt x="462439" y="0"/>
+                  <a:pt x="692283" y="0"/>
+                </a:cubicBezTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:gradFill>
+            <a:gsLst>
+              <a:gs pos="4000">
+                <a:schemeClr val="accent4"/>
+              </a:gs>
+              <a:gs pos="100000">
+                <a:schemeClr val="accent2"/>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+          </a:gradFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="34" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 33"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId8"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1938655" y="5456555"/>
+            <a:ext cx="71755" cy="647700"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 209917"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1899138"/>
+              <a:gd name="connsiteX1" fmla="*/ 187569 w 209917"/>
+              <a:gd name="connsiteY1" fmla="*/ 820615 h 1899138"/>
+              <a:gd name="connsiteX2" fmla="*/ 199292 w 209917"/>
+              <a:gd name="connsiteY2" fmla="*/ 1899138 h 1899138"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="209917" h="1899138">
+                <a:moveTo>
+                  <a:pt x="0" y="0"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="77177" y="252046"/>
+                  <a:pt x="154354" y="504092"/>
+                  <a:pt x="187569" y="820615"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="220784" y="1137138"/>
+                  <a:pt x="210038" y="1518138"/>
+                  <a:pt x="199292" y="1899138"/>
+                </a:cubicBezTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="35" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 34"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId9"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1990725" y="5572760"/>
+            <a:ext cx="104140" cy="80010"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="36" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 35"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId10"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="1873885" y="5568950"/>
+            <a:ext cx="104140" cy="80010"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="37" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 36"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId11"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="1775460" y="5884545"/>
+            <a:ext cx="238760" cy="56515"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="38" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 37"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId12"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="2000885" y="5908675"/>
+            <a:ext cx="252095" cy="36195"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="39" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 38"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId13"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="866084" y="6166236"/>
+            <a:ext cx="1348153" cy="512226"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 164123 w 1348153"/>
+              <a:gd name="connsiteY0" fmla="*/ 445477 h 656492"/>
+              <a:gd name="connsiteX1" fmla="*/ 855784 w 1348153"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 656492"/>
+              <a:gd name="connsiteX2" fmla="*/ 1348153 w 1348153"/>
+              <a:gd name="connsiteY2" fmla="*/ 0 h 656492"/>
+              <a:gd name="connsiteX3" fmla="*/ 949569 w 1348153"/>
+              <a:gd name="connsiteY3" fmla="*/ 656492 h 656492"/>
+              <a:gd name="connsiteX4" fmla="*/ 0 w 1348153"/>
+              <a:gd name="connsiteY4" fmla="*/ 609600 h 656492"/>
+              <a:gd name="connsiteX5" fmla="*/ 164123 w 1348153"/>
+              <a:gd name="connsiteY5" fmla="*/ 445477 h 656492"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="1348153" h="656492">
+                <a:moveTo>
+                  <a:pt x="164123" y="445477"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="855784" y="0"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1348153" y="0"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="949569" y="656492"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="0" y="609600"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="164123" y="445477"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:gradFill>
+            <a:gsLst>
+              <a:gs pos="2000">
+                <a:schemeClr val="accent2">
+                  <a:alpha val="43000"/>
+                </a:schemeClr>
+              </a:gs>
+              <a:gs pos="74000">
+                <a:schemeClr val="accent1">
+                  <a:alpha val="0"/>
+                </a:schemeClr>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+          </a:gradFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="47" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 46"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId14"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="9773285" y="4998720"/>
+            <a:ext cx="1009015" cy="966470"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 692283 w 1303881"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1248506"/>
+              <a:gd name="connsiteX1" fmla="*/ 1108452 w 1303881"/>
+              <a:gd name="connsiteY1" fmla="*/ 416169 h 1248506"/>
+              <a:gd name="connsiteX2" fmla="*/ 1099997 w 1303881"/>
+              <a:gd name="connsiteY2" fmla="*/ 500041 h 1248506"/>
+              <a:gd name="connsiteX3" fmla="*/ 1085426 w 1303881"/>
+              <a:gd name="connsiteY3" fmla="*/ 546982 h 1248506"/>
+              <a:gd name="connsiteX4" fmla="*/ 1142225 w 1303881"/>
+              <a:gd name="connsiteY4" fmla="*/ 577812 h 1248506"/>
+              <a:gd name="connsiteX5" fmla="*/ 1303881 w 1303881"/>
+              <a:gd name="connsiteY5" fmla="*/ 881849 h 1248506"/>
+              <a:gd name="connsiteX6" fmla="*/ 1011118 w 1303881"/>
+              <a:gd name="connsiteY6" fmla="*/ 1241057 h 1248506"/>
+              <a:gd name="connsiteX7" fmla="*/ 1009427 w 1303881"/>
+              <a:gd name="connsiteY7" fmla="*/ 1241228 h 1248506"/>
+              <a:gd name="connsiteX8" fmla="*/ 1009427 w 1303881"/>
+              <a:gd name="connsiteY8" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX9" fmla="*/ 937234 w 1303881"/>
+              <a:gd name="connsiteY9" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX10" fmla="*/ 937224 w 1303881"/>
+              <a:gd name="connsiteY10" fmla="*/ 1248506 h 1248506"/>
+              <a:gd name="connsiteX11" fmla="*/ 937214 w 1303881"/>
+              <a:gd name="connsiteY11" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX12" fmla="*/ 366667 w 1303881"/>
+              <a:gd name="connsiteY12" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX13" fmla="*/ 366657 w 1303881"/>
+              <a:gd name="connsiteY13" fmla="*/ 1248506 h 1248506"/>
+              <a:gd name="connsiteX14" fmla="*/ 366647 w 1303881"/>
+              <a:gd name="connsiteY14" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX15" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY15" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX16" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY16" fmla="*/ 1235889 h 1248506"/>
+              <a:gd name="connsiteX17" fmla="*/ 223938 w 1303881"/>
+              <a:gd name="connsiteY17" fmla="*/ 1219693 h 1248506"/>
+              <a:gd name="connsiteX18" fmla="*/ 0 w 1303881"/>
+              <a:gd name="connsiteY18" fmla="*/ 881849 h 1248506"/>
+              <a:gd name="connsiteX19" fmla="*/ 223938 w 1303881"/>
+              <a:gd name="connsiteY19" fmla="*/ 544006 h 1248506"/>
+              <a:gd name="connsiteX20" fmla="*/ 291688 w 1303881"/>
+              <a:gd name="connsiteY20" fmla="*/ 522975 h 1248506"/>
+              <a:gd name="connsiteX21" fmla="*/ 284569 w 1303881"/>
+              <a:gd name="connsiteY21" fmla="*/ 500041 h 1248506"/>
+              <a:gd name="connsiteX22" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY22" fmla="*/ 416169 h 1248506"/>
+              <a:gd name="connsiteX23" fmla="*/ 692283 w 1303881"/>
+              <a:gd name="connsiteY23" fmla="*/ 0 h 1248506"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX8" y="connsiteY8"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX9" y="connsiteY9"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX10" y="connsiteY10"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX11" y="connsiteY11"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX12" y="connsiteY12"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX13" y="connsiteY13"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX14" y="connsiteY14"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX15" y="connsiteY15"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX16" y="connsiteY16"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX17" y="connsiteY17"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX18" y="connsiteY18"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX19" y="connsiteY19"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX20" y="connsiteY20"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX21" y="connsiteY21"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX22" y="connsiteY22"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX23" y="connsiteY23"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="1303881" h="1248506">
+                <a:moveTo>
+                  <a:pt x="692283" y="0"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="922127" y="0"/>
+                  <a:pt x="1108452" y="186325"/>
+                  <a:pt x="1108452" y="416169"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1108452" y="444899"/>
+                  <a:pt x="1105541" y="472950"/>
+                  <a:pt x="1099997" y="500041"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1085426" y="546982"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1142225" y="577812"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="1239757" y="643702"/>
+                  <a:pt x="1303881" y="755287"/>
+                  <a:pt x="1303881" y="881849"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1303881" y="1059036"/>
+                  <a:pt x="1178198" y="1206868"/>
+                  <a:pt x="1011118" y="1241057"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1009427" y="1241228"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1009427" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937234" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937224" y="1248506"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937214" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366667" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366657" y="1248506"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366647" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="276114" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="276114" y="1235889"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="223938" y="1219693"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="92339" y="1164031"/>
+                  <a:pt x="0" y="1033723"/>
+                  <a:pt x="0" y="881849"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="0" y="729975"/>
+                  <a:pt x="92339" y="599668"/>
+                  <a:pt x="223938" y="544006"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="291688" y="522975"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="284569" y="500041"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="279025" y="472950"/>
+                  <a:pt x="276114" y="444899"/>
+                  <a:pt x="276114" y="416169"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="276114" y="186325"/>
+                  <a:pt x="462439" y="0"/>
+                  <a:pt x="692283" y="0"/>
+                </a:cubicBezTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:gradFill>
+            <a:gsLst>
+              <a:gs pos="4000">
+                <a:schemeClr val="accent2"/>
+              </a:gs>
+              <a:gs pos="100000">
+                <a:schemeClr val="accent3"/>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+          </a:gradFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="48" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 47"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId15"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="10267950" y="5084445"/>
+            <a:ext cx="88265" cy="797560"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 209917"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1899138"/>
+              <a:gd name="connsiteX1" fmla="*/ 187569 w 209917"/>
+              <a:gd name="connsiteY1" fmla="*/ 820615 h 1899138"/>
+              <a:gd name="connsiteX2" fmla="*/ 199292 w 209917"/>
+              <a:gd name="connsiteY2" fmla="*/ 1899138 h 1899138"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="209917" h="1899138">
+                <a:moveTo>
+                  <a:pt x="0" y="0"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="77177" y="252046"/>
+                  <a:pt x="154354" y="504092"/>
+                  <a:pt x="187569" y="820615"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="220784" y="1137138"/>
+                  <a:pt x="210038" y="1518138"/>
+                  <a:pt x="199292" y="1899138"/>
+                </a:cubicBezTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="49" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 48"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId16"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="10332085" y="5227320"/>
+            <a:ext cx="128270" cy="98425"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="50" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 49"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId17"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="10187305" y="5222240"/>
+            <a:ext cx="128270" cy="98425"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="51" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 50"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId18"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="10066655" y="5610860"/>
+            <a:ext cx="294005" cy="69215"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="52" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 51"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId19"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="10344150" y="5640705"/>
+            <a:ext cx="309880" cy="44450"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="44" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 43"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId20"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7947025" y="5724828"/>
+            <a:ext cx="1114779" cy="349505"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 164123 w 1348153"/>
+              <a:gd name="connsiteY0" fmla="*/ 445477 h 656492"/>
+              <a:gd name="connsiteX1" fmla="*/ 855784 w 1348153"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 656492"/>
+              <a:gd name="connsiteX2" fmla="*/ 1348153 w 1348153"/>
+              <a:gd name="connsiteY2" fmla="*/ 0 h 656492"/>
+              <a:gd name="connsiteX3" fmla="*/ 949569 w 1348153"/>
+              <a:gd name="connsiteY3" fmla="*/ 656492 h 656492"/>
+              <a:gd name="connsiteX4" fmla="*/ 0 w 1348153"/>
+              <a:gd name="connsiteY4" fmla="*/ 609600 h 656492"/>
+              <a:gd name="connsiteX5" fmla="*/ 164123 w 1348153"/>
+              <a:gd name="connsiteY5" fmla="*/ 445477 h 656492"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="1348153" h="656492">
+                <a:moveTo>
+                  <a:pt x="164123" y="445477"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="855784" y="0"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1348153" y="0"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="949569" y="656492"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="0" y="609600"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="164123" y="445477"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:gradFill>
+            <a:gsLst>
+              <a:gs pos="2000">
+                <a:schemeClr val="accent2">
+                  <a:alpha val="43000"/>
+                </a:schemeClr>
+              </a:gs>
+              <a:gs pos="74000">
+                <a:schemeClr val="accent1">
+                  <a:alpha val="0"/>
+                </a:schemeClr>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+          </a:gradFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="59" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 58"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId21"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8440750" y="4890692"/>
+            <a:ext cx="884374" cy="847128"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 692283 w 1303881"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1248506"/>
+              <a:gd name="connsiteX1" fmla="*/ 1108452 w 1303881"/>
+              <a:gd name="connsiteY1" fmla="*/ 416169 h 1248506"/>
+              <a:gd name="connsiteX2" fmla="*/ 1099997 w 1303881"/>
+              <a:gd name="connsiteY2" fmla="*/ 500041 h 1248506"/>
+              <a:gd name="connsiteX3" fmla="*/ 1085426 w 1303881"/>
+              <a:gd name="connsiteY3" fmla="*/ 546982 h 1248506"/>
+              <a:gd name="connsiteX4" fmla="*/ 1142225 w 1303881"/>
+              <a:gd name="connsiteY4" fmla="*/ 577812 h 1248506"/>
+              <a:gd name="connsiteX5" fmla="*/ 1303881 w 1303881"/>
+              <a:gd name="connsiteY5" fmla="*/ 881849 h 1248506"/>
+              <a:gd name="connsiteX6" fmla="*/ 1011118 w 1303881"/>
+              <a:gd name="connsiteY6" fmla="*/ 1241057 h 1248506"/>
+              <a:gd name="connsiteX7" fmla="*/ 1009427 w 1303881"/>
+              <a:gd name="connsiteY7" fmla="*/ 1241228 h 1248506"/>
+              <a:gd name="connsiteX8" fmla="*/ 1009427 w 1303881"/>
+              <a:gd name="connsiteY8" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX9" fmla="*/ 937234 w 1303881"/>
+              <a:gd name="connsiteY9" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX10" fmla="*/ 937224 w 1303881"/>
+              <a:gd name="connsiteY10" fmla="*/ 1248506 h 1248506"/>
+              <a:gd name="connsiteX11" fmla="*/ 937214 w 1303881"/>
+              <a:gd name="connsiteY11" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX12" fmla="*/ 366667 w 1303881"/>
+              <a:gd name="connsiteY12" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX13" fmla="*/ 366657 w 1303881"/>
+              <a:gd name="connsiteY13" fmla="*/ 1248506 h 1248506"/>
+              <a:gd name="connsiteX14" fmla="*/ 366647 w 1303881"/>
+              <a:gd name="connsiteY14" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX15" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY15" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX16" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY16" fmla="*/ 1235889 h 1248506"/>
+              <a:gd name="connsiteX17" fmla="*/ 223938 w 1303881"/>
+              <a:gd name="connsiteY17" fmla="*/ 1219693 h 1248506"/>
+              <a:gd name="connsiteX18" fmla="*/ 0 w 1303881"/>
+              <a:gd name="connsiteY18" fmla="*/ 881849 h 1248506"/>
+              <a:gd name="connsiteX19" fmla="*/ 223938 w 1303881"/>
+              <a:gd name="connsiteY19" fmla="*/ 544006 h 1248506"/>
+              <a:gd name="connsiteX20" fmla="*/ 291688 w 1303881"/>
+              <a:gd name="connsiteY20" fmla="*/ 522975 h 1248506"/>
+              <a:gd name="connsiteX21" fmla="*/ 284569 w 1303881"/>
+              <a:gd name="connsiteY21" fmla="*/ 500041 h 1248506"/>
+              <a:gd name="connsiteX22" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY22" fmla="*/ 416169 h 1248506"/>
+              <a:gd name="connsiteX23" fmla="*/ 692283 w 1303881"/>
+              <a:gd name="connsiteY23" fmla="*/ 0 h 1248506"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX8" y="connsiteY8"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX9" y="connsiteY9"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX10" y="connsiteY10"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX11" y="connsiteY11"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX12" y="connsiteY12"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX13" y="connsiteY13"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX14" y="connsiteY14"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX15" y="connsiteY15"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX16" y="connsiteY16"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX17" y="connsiteY17"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX18" y="connsiteY18"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX19" y="connsiteY19"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX20" y="connsiteY20"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX21" y="connsiteY21"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX22" y="connsiteY22"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX23" y="connsiteY23"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="1303881" h="1248506">
+                <a:moveTo>
+                  <a:pt x="692283" y="0"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="922127" y="0"/>
+                  <a:pt x="1108452" y="186325"/>
+                  <a:pt x="1108452" y="416169"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1108452" y="444899"/>
+                  <a:pt x="1105541" y="472950"/>
+                  <a:pt x="1099997" y="500041"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1085426" y="546982"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1142225" y="577812"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="1239757" y="643702"/>
+                  <a:pt x="1303881" y="755287"/>
+                  <a:pt x="1303881" y="881849"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1303881" y="1059036"/>
+                  <a:pt x="1178198" y="1206868"/>
+                  <a:pt x="1011118" y="1241057"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1009427" y="1241228"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1009427" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937234" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937224" y="1248506"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937214" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366667" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366657" y="1248506"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366647" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="276114" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="276114" y="1235889"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="223938" y="1219693"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="92339" y="1164031"/>
+                  <a:pt x="0" y="1033723"/>
+                  <a:pt x="0" y="881849"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="0" y="729975"/>
+                  <a:pt x="92339" y="599668"/>
+                  <a:pt x="223938" y="544006"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="291688" y="522975"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="284569" y="500041"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="279025" y="472950"/>
+                  <a:pt x="276114" y="444899"/>
+                  <a:pt x="276114" y="416169"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="276114" y="186325"/>
+                  <a:pt x="462439" y="0"/>
+                  <a:pt x="692283" y="0"/>
+                </a:cubicBezTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:gradFill>
+            <a:gsLst>
+              <a:gs pos="4000">
+                <a:schemeClr val="accent2"/>
+              </a:gs>
+              <a:gs pos="100000">
+                <a:schemeClr val="accent3"/>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+          </a:gradFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="60" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 59"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId22"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8874275" y="4965617"/>
+            <a:ext cx="77090" cy="699444"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 209917"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1899138"/>
+              <a:gd name="connsiteX1" fmla="*/ 187569 w 209917"/>
+              <a:gd name="connsiteY1" fmla="*/ 820615 h 1899138"/>
+              <a:gd name="connsiteX2" fmla="*/ 199292 w 209917"/>
+              <a:gd name="connsiteY2" fmla="*/ 1899138 h 1899138"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="209917" h="1899138">
+                <a:moveTo>
+                  <a:pt x="0" y="0"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="77177" y="252046"/>
+                  <a:pt x="154354" y="504092"/>
+                  <a:pt x="187569" y="820615"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="220784" y="1137138"/>
+                  <a:pt x="210038" y="1518138"/>
+                  <a:pt x="199292" y="1899138"/>
+                </a:cubicBezTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="61" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 60"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId23"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8930577" y="5090781"/>
+            <a:ext cx="112171" cy="86185"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="62" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 61"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId24"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="8803681" y="5086450"/>
+            <a:ext cx="112171" cy="86185"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="63" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 62"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId25"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="8698007" y="5427293"/>
+            <a:ext cx="257690" cy="60633"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="64" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 63"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId26"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8941405" y="5453279"/>
+            <a:ext cx="271982" cy="38978"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="53" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 52"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId27"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="9022826" y="5418198"/>
+            <a:ext cx="558689" cy="534869"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 692283 w 1303881"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1248506"/>
+              <a:gd name="connsiteX1" fmla="*/ 1108452 w 1303881"/>
+              <a:gd name="connsiteY1" fmla="*/ 416169 h 1248506"/>
+              <a:gd name="connsiteX2" fmla="*/ 1099997 w 1303881"/>
+              <a:gd name="connsiteY2" fmla="*/ 500041 h 1248506"/>
+              <a:gd name="connsiteX3" fmla="*/ 1085426 w 1303881"/>
+              <a:gd name="connsiteY3" fmla="*/ 546982 h 1248506"/>
+              <a:gd name="connsiteX4" fmla="*/ 1142225 w 1303881"/>
+              <a:gd name="connsiteY4" fmla="*/ 577812 h 1248506"/>
+              <a:gd name="connsiteX5" fmla="*/ 1303881 w 1303881"/>
+              <a:gd name="connsiteY5" fmla="*/ 881849 h 1248506"/>
+              <a:gd name="connsiteX6" fmla="*/ 1011118 w 1303881"/>
+              <a:gd name="connsiteY6" fmla="*/ 1241057 h 1248506"/>
+              <a:gd name="connsiteX7" fmla="*/ 1009427 w 1303881"/>
+              <a:gd name="connsiteY7" fmla="*/ 1241228 h 1248506"/>
+              <a:gd name="connsiteX8" fmla="*/ 1009427 w 1303881"/>
+              <a:gd name="connsiteY8" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX9" fmla="*/ 937234 w 1303881"/>
+              <a:gd name="connsiteY9" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX10" fmla="*/ 937224 w 1303881"/>
+              <a:gd name="connsiteY10" fmla="*/ 1248506 h 1248506"/>
+              <a:gd name="connsiteX11" fmla="*/ 937214 w 1303881"/>
+              <a:gd name="connsiteY11" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX12" fmla="*/ 366667 w 1303881"/>
+              <a:gd name="connsiteY12" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX13" fmla="*/ 366657 w 1303881"/>
+              <a:gd name="connsiteY13" fmla="*/ 1248506 h 1248506"/>
+              <a:gd name="connsiteX14" fmla="*/ 366647 w 1303881"/>
+              <a:gd name="connsiteY14" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX15" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY15" fmla="*/ 1248505 h 1248506"/>
+              <a:gd name="connsiteX16" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY16" fmla="*/ 1235889 h 1248506"/>
+              <a:gd name="connsiteX17" fmla="*/ 223938 w 1303881"/>
+              <a:gd name="connsiteY17" fmla="*/ 1219693 h 1248506"/>
+              <a:gd name="connsiteX18" fmla="*/ 0 w 1303881"/>
+              <a:gd name="connsiteY18" fmla="*/ 881849 h 1248506"/>
+              <a:gd name="connsiteX19" fmla="*/ 223938 w 1303881"/>
+              <a:gd name="connsiteY19" fmla="*/ 544006 h 1248506"/>
+              <a:gd name="connsiteX20" fmla="*/ 291688 w 1303881"/>
+              <a:gd name="connsiteY20" fmla="*/ 522975 h 1248506"/>
+              <a:gd name="connsiteX21" fmla="*/ 284569 w 1303881"/>
+              <a:gd name="connsiteY21" fmla="*/ 500041 h 1248506"/>
+              <a:gd name="connsiteX22" fmla="*/ 276114 w 1303881"/>
+              <a:gd name="connsiteY22" fmla="*/ 416169 h 1248506"/>
+              <a:gd name="connsiteX23" fmla="*/ 692283 w 1303881"/>
+              <a:gd name="connsiteY23" fmla="*/ 0 h 1248506"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX8" y="connsiteY8"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX9" y="connsiteY9"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX10" y="connsiteY10"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX11" y="connsiteY11"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX12" y="connsiteY12"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX13" y="connsiteY13"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX14" y="connsiteY14"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX15" y="connsiteY15"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX16" y="connsiteY16"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX17" y="connsiteY17"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX18" y="connsiteY18"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX19" y="connsiteY19"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX20" y="connsiteY20"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX21" y="connsiteY21"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX22" y="connsiteY22"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX23" y="connsiteY23"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="1303881" h="1248506">
+                <a:moveTo>
+                  <a:pt x="692283" y="0"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="922127" y="0"/>
+                  <a:pt x="1108452" y="186325"/>
+                  <a:pt x="1108452" y="416169"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1108452" y="444899"/>
+                  <a:pt x="1105541" y="472950"/>
+                  <a:pt x="1099997" y="500041"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1085426" y="546982"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1142225" y="577812"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="1239757" y="643702"/>
+                  <a:pt x="1303881" y="755287"/>
+                  <a:pt x="1303881" y="881849"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1303881" y="1059036"/>
+                  <a:pt x="1178198" y="1206868"/>
+                  <a:pt x="1011118" y="1241057"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1009427" y="1241228"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1009427" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937234" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937224" y="1248506"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="937214" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366667" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366657" y="1248506"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="366647" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="276114" y="1248505"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="276114" y="1235889"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="223938" y="1219693"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="92339" y="1164031"/>
+                  <a:pt x="0" y="1033723"/>
+                  <a:pt x="0" y="881849"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="0" y="729975"/>
+                  <a:pt x="92339" y="599668"/>
+                  <a:pt x="223938" y="544006"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="291688" y="522975"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="284569" y="500041"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="279025" y="472950"/>
+                  <a:pt x="276114" y="444899"/>
+                  <a:pt x="276114" y="416169"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="276114" y="186325"/>
+                  <a:pt x="462439" y="0"/>
+                  <a:pt x="692283" y="0"/>
+                </a:cubicBezTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:gradFill>
+            <a:gsLst>
+              <a:gs pos="4000">
+                <a:schemeClr val="accent4"/>
+              </a:gs>
+              <a:gs pos="100000">
+                <a:schemeClr val="accent2"/>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+          </a:gradFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="54" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 53"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId28"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="9296540" y="5465405"/>
+            <a:ext cx="48939" cy="441321"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 209917"/>
+              <a:gd name="connsiteY0" fmla="*/ 0 h 1899138"/>
+              <a:gd name="connsiteX1" fmla="*/ 187569 w 209917"/>
+              <a:gd name="connsiteY1" fmla="*/ 820615 h 1899138"/>
+              <a:gd name="connsiteX2" fmla="*/ 199292 w 209917"/>
+              <a:gd name="connsiteY2" fmla="*/ 1899138 h 1899138"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="209917" h="1899138">
+                <a:moveTo>
+                  <a:pt x="0" y="0"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="77177" y="252046"/>
+                  <a:pt x="154354" y="504092"/>
+                  <a:pt x="187569" y="820615"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="220784" y="1137138"/>
+                  <a:pt x="210038" y="1518138"/>
+                  <a:pt x="199292" y="1899138"/>
+                </a:cubicBezTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="55" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 54"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId29"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="9332054" y="5544661"/>
+            <a:ext cx="71027" cy="54570"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="56" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 55"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId30"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="9252365" y="5541630"/>
+            <a:ext cx="71027" cy="54570"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="57" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 56"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId31"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="9185236" y="5756877"/>
+            <a:ext cx="162843" cy="38545"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="58" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 57"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId32"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="9338983" y="5773334"/>
+            <a:ext cx="171505" cy="24686"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 304800"/>
+              <a:gd name="connsiteY0" fmla="*/ 234462 h 234462"/>
+              <a:gd name="connsiteX1" fmla="*/ 304800 w 304800"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 234462"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="304800" h="234462">
+                <a:moveTo>
+                  <a:pt x="0" y="234462"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="304800" y="0"/>
+                </a:lnTo>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:noFill/>
+          <a:ln w="19050">
+            <a:solidFill>
+              <a:schemeClr val="bg1">
+                <a:alpha val="60000"/>
+              </a:schemeClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="45" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 44"/>
+          <p:cNvSpPr/>
+          <p:nvPr>
+            <p:custDataLst>
+              <p:tags r:id="rId33"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8568512" y="5949603"/>
+            <a:ext cx="919455" cy="349505"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 164123 w 1348153"/>
+              <a:gd name="connsiteY0" fmla="*/ 445477 h 656492"/>
+              <a:gd name="connsiteX1" fmla="*/ 855784 w 1348153"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 656492"/>
+              <a:gd name="connsiteX2" fmla="*/ 1348153 w 1348153"/>
+              <a:gd name="connsiteY2" fmla="*/ 0 h 656492"/>
+              <a:gd name="connsiteX3" fmla="*/ 949569 w 1348153"/>
+              <a:gd name="connsiteY3" fmla="*/ 656492 h 656492"/>
+              <a:gd name="connsiteX4" fmla="*/ 0 w 1348153"/>
+              <a:gd name="connsiteY4" fmla="*/ 609600 h 656492"/>
+              <a:gd name="connsiteX5" fmla="*/ 164123 w 1348153"/>
+              <a:gd name="connsiteY5" fmla="*/ 445477 h 656492"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="1348153" h="656492">
+                <a:moveTo>
+                  <a:pt x="164123" y="445477"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="855784" y="0"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1348153" y="0"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="949569" y="656492"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="0" y="609600"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="164123" y="445477"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:gradFill>
+            <a:gsLst>
+              <a:gs pos="2000">
+                <a:schemeClr val="accent2">
+                  <a:alpha val="43000"/>
+                </a:schemeClr>
+              </a:gs>
+              <a:gs pos="74000">
+                <a:schemeClr val="accent1">
+                  <a:alpha val="0"/>
+                </a:schemeClr>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+          </a:gradFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="46" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 45"/>
+          <p:cNvSpPr/>
+          <p:nvPr userDrawn="1">
+            <p:custDataLst>
+              <p:tags r:id="rId34"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8956040" y="5964555"/>
+            <a:ext cx="1634490" cy="512445"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 164123 w 1348153"/>
+              <a:gd name="connsiteY0" fmla="*/ 445477 h 656492"/>
+              <a:gd name="connsiteX1" fmla="*/ 855784 w 1348153"/>
+              <a:gd name="connsiteY1" fmla="*/ 0 h 656492"/>
+              <a:gd name="connsiteX2" fmla="*/ 1348153 w 1348153"/>
+              <a:gd name="connsiteY2" fmla="*/ 0 h 656492"/>
+              <a:gd name="connsiteX3" fmla="*/ 949569 w 1348153"/>
+              <a:gd name="connsiteY3" fmla="*/ 656492 h 656492"/>
+              <a:gd name="connsiteX4" fmla="*/ 0 w 1348153"/>
+              <a:gd name="connsiteY4" fmla="*/ 609600 h 656492"/>
+              <a:gd name="connsiteX5" fmla="*/ 164123 w 1348153"/>
+              <a:gd name="connsiteY5" fmla="*/ 445477 h 656492"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="1348153" h="656492">
+                <a:moveTo>
+                  <a:pt x="164123" y="445477"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="855784" y="0"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="1348153" y="0"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="949569" y="656492"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="0" y="609600"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="164123" y="445477"/>
+                </a:lnTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:gradFill>
+            <a:gsLst>
+              <a:gs pos="2000">
+                <a:schemeClr val="accent2">
+                  <a:alpha val="43000"/>
+                </a:schemeClr>
+              </a:gs>
+              <a:gs pos="74000">
+                <a:schemeClr val="accent1">
+                  <a:alpha val="0"/>
+                </a:schemeClr>
+              </a:gs>
+            </a:gsLst>
+            <a:lin ang="5400000" scaled="1"/>
+          </a:gradFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="68" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 67"/>
+          <p:cNvSpPr/>
+          <p:nvPr userDrawn="1">
+            <p:custDataLst>
+              <p:tags r:id="rId35"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm rot="16200000" flipH="1">
+            <a:off x="2158365" y="1995043"/>
+            <a:ext cx="723900" cy="664845"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 913750"/>
+              <a:gd name="connsiteY0" fmla="*/ 89496 h 762286"/>
+              <a:gd name="connsiteX1" fmla="*/ 1 w 913750"/>
+              <a:gd name="connsiteY1" fmla="*/ 672790 h 762286"/>
+              <a:gd name="connsiteX2" fmla="*/ 89497 w 913750"/>
+              <a:gd name="connsiteY2" fmla="*/ 762286 h 762286"/>
+              <a:gd name="connsiteX3" fmla="*/ 588147 w 913750"/>
+              <a:gd name="connsiteY3" fmla="*/ 762286 h 762286"/>
+              <a:gd name="connsiteX4" fmla="*/ 677643 w 913750"/>
+              <a:gd name="connsiteY4" fmla="*/ 672790 h 762286"/>
+              <a:gd name="connsiteX5" fmla="*/ 677643 w 913750"/>
+              <a:gd name="connsiteY5" fmla="*/ 599953 h 762286"/>
+              <a:gd name="connsiteX6" fmla="*/ 913750 w 913750"/>
+              <a:gd name="connsiteY6" fmla="*/ 599953 h 762286"/>
+              <a:gd name="connsiteX7" fmla="*/ 677643 w 913750"/>
+              <a:gd name="connsiteY7" fmla="*/ 385217 h 762286"/>
+              <a:gd name="connsiteX8" fmla="*/ 677642 w 913750"/>
+              <a:gd name="connsiteY8" fmla="*/ 89496 h 762286"/>
+              <a:gd name="connsiteX9" fmla="*/ 588146 w 913750"/>
+              <a:gd name="connsiteY9" fmla="*/ 0 h 762286"/>
+              <a:gd name="connsiteX10" fmla="*/ 89496 w 913750"/>
+              <a:gd name="connsiteY10" fmla="*/ 0 h 762286"/>
+              <a:gd name="connsiteX11" fmla="*/ 0 w 913750"/>
+              <a:gd name="connsiteY11" fmla="*/ 89496 h 762286"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX8" y="connsiteY8"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX9" y="connsiteY9"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX10" y="connsiteY10"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX11" y="connsiteY11"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="913750" h="762286">
+                <a:moveTo>
+                  <a:pt x="0" y="89496"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="1" y="672790"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="1" y="722217"/>
+                  <a:pt x="40070" y="762286"/>
+                  <a:pt x="89497" y="762286"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="588147" y="762286"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="637574" y="762286"/>
+                  <a:pt x="677643" y="722217"/>
+                  <a:pt x="677643" y="672790"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="677643" y="599953"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="913750" y="599953"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="677643" y="385217"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="677642" y="89496"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="677642" y="40069"/>
+                  <a:pt x="637573" y="0"/>
+                  <a:pt x="588146" y="0"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="89496" y="0"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="40069" y="0"/>
+                  <a:pt x="0" y="40069"/>
+                  <a:pt x="0" y="89496"/>
+                </a:cubicBezTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFFFF">
+              <a:alpha val="65000"/>
+            </a:srgbClr>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="69" name="iconfont-1177-866134"/>
+          <p:cNvSpPr>
+            <a:spLocks noChangeAspect="1"/>
+          </p:cNvSpPr>
+          <p:nvPr userDrawn="1">
+            <p:custDataLst>
+              <p:tags r:id="rId36"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr bwMode="auto">
+          <a:xfrm>
+            <a:off x="2356485" y="2056638"/>
+            <a:ext cx="304800" cy="304800"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="T0" fmla="*/ 741 w 9136"/>
+              <a:gd name="T1" fmla="*/ 3456 h 9136"/>
+              <a:gd name="T2" fmla="*/ 4274 w 9136"/>
+              <a:gd name="T3" fmla="*/ 1578 h 9136"/>
+              <a:gd name="T4" fmla="*/ 773 w 9136"/>
+              <a:gd name="T5" fmla="*/ 741 h 9136"/>
+              <a:gd name="T6" fmla="*/ 4688 w 9136"/>
+              <a:gd name="T7" fmla="*/ 7498 h 9136"/>
+              <a:gd name="T8" fmla="*/ 8247 w 9136"/>
+              <a:gd name="T9" fmla="*/ 8396 h 9136"/>
+              <a:gd name="T10" fmla="*/ 8280 w 9136"/>
+              <a:gd name="T11" fmla="*/ 5681 h 9136"/>
+              <a:gd name="T12" fmla="*/ 5681 w 9136"/>
+              <a:gd name="T13" fmla="*/ 741 h 9136"/>
+              <a:gd name="T14" fmla="*/ 741 w 9136"/>
+              <a:gd name="T15" fmla="*/ 8247 h 9136"/>
+              <a:gd name="T16" fmla="*/ 3456 w 9136"/>
+              <a:gd name="T17" fmla="*/ 8280 h 9136"/>
+              <a:gd name="T18" fmla="*/ 8396 w 9136"/>
+              <a:gd name="T19" fmla="*/ 773 h 9136"/>
+              <a:gd name="T20" fmla="*/ 5940 w 9136"/>
+              <a:gd name="T21" fmla="*/ 1596 h 9136"/>
+              <a:gd name="T22" fmla="*/ 5940 w 9136"/>
+              <a:gd name="T23" fmla="*/ 2082 h 9136"/>
+              <a:gd name="T24" fmla="*/ 5940 w 9136"/>
+              <a:gd name="T25" fmla="*/ 1596 h 9136"/>
+              <a:gd name="T26" fmla="*/ 1011 w 9136"/>
+              <a:gd name="T27" fmla="*/ 7633 h 9136"/>
+              <a:gd name="T28" fmla="*/ 1496 w 9136"/>
+              <a:gd name="T29" fmla="*/ 7674 h 9136"/>
+              <a:gd name="T30" fmla="*/ 1541 w 9136"/>
+              <a:gd name="T31" fmla="*/ 7138 h 9136"/>
+              <a:gd name="T32" fmla="*/ 1581 w 9136"/>
+              <a:gd name="T33" fmla="*/ 6654 h 9136"/>
+              <a:gd name="T34" fmla="*/ 1541 w 9136"/>
+              <a:gd name="T35" fmla="*/ 7138 h 9136"/>
+              <a:gd name="T36" fmla="*/ 1482 w 9136"/>
+              <a:gd name="T37" fmla="*/ 6015 h 9136"/>
+              <a:gd name="T38" fmla="*/ 1966 w 9136"/>
+              <a:gd name="T39" fmla="*/ 6056 h 9136"/>
+              <a:gd name="T40" fmla="*/ 2152 w 9136"/>
+              <a:gd name="T41" fmla="*/ 7820 h 9136"/>
+              <a:gd name="T42" fmla="*/ 2193 w 9136"/>
+              <a:gd name="T43" fmla="*/ 7336 h 9136"/>
+              <a:gd name="T44" fmla="*/ 2152 w 9136"/>
+              <a:gd name="T45" fmla="*/ 7820 h 9136"/>
+              <a:gd name="T46" fmla="*/ 2093 w 9136"/>
+              <a:gd name="T47" fmla="*/ 6697 h 9136"/>
+              <a:gd name="T48" fmla="*/ 2577 w 9136"/>
+              <a:gd name="T49" fmla="*/ 6738 h 9136"/>
+              <a:gd name="T50" fmla="*/ 2906 w 9136"/>
+              <a:gd name="T51" fmla="*/ 7659 h 9136"/>
+              <a:gd name="T52" fmla="*/ 2947 w 9136"/>
+              <a:gd name="T53" fmla="*/ 7175 h 9136"/>
+              <a:gd name="T54" fmla="*/ 2906 w 9136"/>
+              <a:gd name="T55" fmla="*/ 7659 h 9136"/>
+              <a:gd name="T56" fmla="*/ 4942 w 9136"/>
+              <a:gd name="T57" fmla="*/ 5819 h 9136"/>
+              <a:gd name="T58" fmla="*/ 3237 w 9136"/>
+              <a:gd name="T59" fmla="*/ 5716 h 9136"/>
+              <a:gd name="T60" fmla="*/ 4246 w 9136"/>
+              <a:gd name="T61" fmla="*/ 3087 h 9136"/>
+              <a:gd name="T62" fmla="*/ 5991 w 9136"/>
+              <a:gd name="T63" fmla="*/ 3240 h 9136"/>
+              <a:gd name="T64" fmla="*/ 6568 w 9136"/>
+              <a:gd name="T65" fmla="*/ 2749 h 9136"/>
+              <a:gd name="T66" fmla="*/ 6568 w 9136"/>
+              <a:gd name="T67" fmla="*/ 2263 h 9136"/>
+              <a:gd name="T68" fmla="*/ 6568 w 9136"/>
+              <a:gd name="T69" fmla="*/ 2749 h 9136"/>
+              <a:gd name="T70" fmla="*/ 6811 w 9136"/>
+              <a:gd name="T71" fmla="*/ 1506 h 9136"/>
+              <a:gd name="T72" fmla="*/ 6811 w 9136"/>
+              <a:gd name="T73" fmla="*/ 1992 h 9136"/>
+              <a:gd name="T74" fmla="*/ 7216 w 9136"/>
+              <a:gd name="T75" fmla="*/ 3396 h 9136"/>
+              <a:gd name="T76" fmla="*/ 7216 w 9136"/>
+              <a:gd name="T77" fmla="*/ 2910 h 9136"/>
+              <a:gd name="T78" fmla="*/ 7216 w 9136"/>
+              <a:gd name="T79" fmla="*/ 3396 h 9136"/>
+              <a:gd name="T80" fmla="*/ 7196 w 9136"/>
+              <a:gd name="T81" fmla="*/ 2416 h 9136"/>
+              <a:gd name="T82" fmla="*/ 7682 w 9136"/>
+              <a:gd name="T83" fmla="*/ 2416 h 9136"/>
+              <a:gd name="T84" fmla="*/ 7592 w 9136"/>
+              <a:gd name="T85" fmla="*/ 1749 h 9136"/>
+              <a:gd name="T86" fmla="*/ 7592 w 9136"/>
+              <a:gd name="T87" fmla="*/ 1263 h 9136"/>
+              <a:gd name="T88" fmla="*/ 7592 w 9136"/>
+              <a:gd name="T89" fmla="*/ 1749 h 9136"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="T0" y="T1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T2" y="T3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T4" y="T5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T6" y="T7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T8" y="T9"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T10" y="T11"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T12" y="T13"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T14" y="T15"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T16" y="T17"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T18" y="T19"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T20" y="T21"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T22" y="T23"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T24" y="T25"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T26" y="T27"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T28" y="T29"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T30" y="T31"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T32" y="T33"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T34" y="T35"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T36" y="T37"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T38" y="T39"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T40" y="T41"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T42" y="T43"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T44" y="T45"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T46" y="T47"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T48" y="T49"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T50" y="T51"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T52" y="T53"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T54" y="T55"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T56" y="T57"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T58" y="T59"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T60" y="T61"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T62" y="T63"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T64" y="T65"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T66" y="T67"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T68" y="T69"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T70" y="T71"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T72" y="T73"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T74" y="T75"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T76" y="T77"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T78" y="T79"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T80" y="T81"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T82" y="T83"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T84" y="T85"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T86" y="T87"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T88" y="T89"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="0" t="0" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="9136" h="9136">
+                <a:moveTo>
+                  <a:pt x="773" y="741"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="14" y="1482"/>
+                  <a:pt x="1" y="2697"/>
+                  <a:pt x="741" y="3456"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1527" y="4261"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="4274" y="1578"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="3488" y="773"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="2748" y="15"/>
+                  <a:pt x="1532" y="0"/>
+                  <a:pt x="773" y="741"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="7435" y="4816"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="4688" y="7498"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="5532" y="8363"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="6273" y="9122"/>
+                  <a:pt x="7488" y="9136"/>
+                  <a:pt x="8247" y="8396"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="8632" y="8020"/>
+                  <a:pt x="8826" y="7521"/>
+                  <a:pt x="8826" y="7022"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="8826" y="6539"/>
+                  <a:pt x="8644" y="6055"/>
+                  <a:pt x="8280" y="5681"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="7435" y="4816"/>
+                </a:lnTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="5681" y="741"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="773" y="5532"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="15" y="6273"/>
+                  <a:pt x="0" y="7488"/>
+                  <a:pt x="741" y="8247"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1117" y="8632"/>
+                  <a:pt x="1615" y="8826"/>
+                  <a:pt x="2115" y="8826"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2598" y="8826"/>
+                  <a:pt x="3082" y="8644"/>
+                  <a:pt x="3456" y="8280"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="8363" y="3488"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="9122" y="2748"/>
+                  <a:pt x="9136" y="1532"/>
+                  <a:pt x="8396" y="773"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7655" y="14"/>
+                  <a:pt x="6440" y="1"/>
+                  <a:pt x="5681" y="741"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="5940" y="1596"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="6074" y="1596"/>
+                  <a:pt x="6183" y="1705"/>
+                  <a:pt x="6183" y="1839"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6183" y="1973"/>
+                  <a:pt x="6074" y="2082"/>
+                  <a:pt x="5940" y="2082"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5806" y="2082"/>
+                  <a:pt x="5697" y="1973"/>
+                  <a:pt x="5697" y="1839"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5697" y="1705"/>
+                  <a:pt x="5806" y="1596"/>
+                  <a:pt x="5940" y="1596"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="1233" y="7896"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="1100" y="7885"/>
+                  <a:pt x="1000" y="7767"/>
+                  <a:pt x="1011" y="7633"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1023" y="7500"/>
+                  <a:pt x="1140" y="7400"/>
+                  <a:pt x="1274" y="7411"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1408" y="7423"/>
+                  <a:pt x="1507" y="7540"/>
+                  <a:pt x="1496" y="7674"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1484" y="7808"/>
+                  <a:pt x="1367" y="7907"/>
+                  <a:pt x="1233" y="7896"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="1541" y="7138"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="1407" y="7127"/>
+                  <a:pt x="1308" y="7009"/>
+                  <a:pt x="1319" y="6876"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1330" y="6742"/>
+                  <a:pt x="1448" y="6643"/>
+                  <a:pt x="1581" y="6654"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1715" y="6665"/>
+                  <a:pt x="1814" y="6783"/>
+                  <a:pt x="1803" y="6917"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1792" y="7050"/>
+                  <a:pt x="1674" y="7149"/>
+                  <a:pt x="1541" y="7138"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="1704" y="6278"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="1570" y="6266"/>
+                  <a:pt x="1471" y="6149"/>
+                  <a:pt x="1482" y="6015"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1493" y="5881"/>
+                  <a:pt x="1611" y="5782"/>
+                  <a:pt x="1744" y="5793"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1878" y="5805"/>
+                  <a:pt x="1977" y="5922"/>
+                  <a:pt x="1966" y="6056"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1955" y="6189"/>
+                  <a:pt x="1837" y="6289"/>
+                  <a:pt x="1704" y="6278"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="2152" y="7820"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="2019" y="7809"/>
+                  <a:pt x="1919" y="7691"/>
+                  <a:pt x="1931" y="7558"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1942" y="7424"/>
+                  <a:pt x="2059" y="7325"/>
+                  <a:pt x="2193" y="7336"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2327" y="7347"/>
+                  <a:pt x="2426" y="7465"/>
+                  <a:pt x="2415" y="7598"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2404" y="7732"/>
+                  <a:pt x="2286" y="7831"/>
+                  <a:pt x="2152" y="7820"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="2315" y="6959"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="2181" y="6948"/>
+                  <a:pt x="2082" y="6831"/>
+                  <a:pt x="2093" y="6697"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2104" y="6564"/>
+                  <a:pt x="2222" y="6464"/>
+                  <a:pt x="2356" y="6475"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2490" y="6487"/>
+                  <a:pt x="2589" y="6604"/>
+                  <a:pt x="2577" y="6738"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2566" y="6871"/>
+                  <a:pt x="2449" y="6971"/>
+                  <a:pt x="2315" y="6959"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="2906" y="7659"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="2772" y="7648"/>
+                  <a:pt x="2673" y="7530"/>
+                  <a:pt x="2684" y="7396"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2695" y="7263"/>
+                  <a:pt x="2813" y="7164"/>
+                  <a:pt x="2947" y="7175"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="3080" y="7186"/>
+                  <a:pt x="3180" y="7304"/>
+                  <a:pt x="3168" y="7437"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="3157" y="7571"/>
+                  <a:pt x="3039" y="7670"/>
+                  <a:pt x="2906" y="7659"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="5924" y="4912"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="4942" y="5819"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="4463" y="6262"/>
+                  <a:pt x="3715" y="6233"/>
+                  <a:pt x="3272" y="5754"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="3237" y="5716"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="2794" y="5236"/>
+                  <a:pt x="2814" y="4479"/>
+                  <a:pt x="3282" y="4025"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="4246" y="3087"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="4713" y="2632"/>
+                  <a:pt x="5451" y="2653"/>
+                  <a:pt x="5892" y="3133"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="5991" y="3240"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="6433" y="3720"/>
+                  <a:pt x="6403" y="4469"/>
+                  <a:pt x="5924" y="4912"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="6568" y="2749"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="6434" y="2749"/>
+                  <a:pt x="6325" y="2640"/>
+                  <a:pt x="6325" y="2506"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6325" y="2372"/>
+                  <a:pt x="6434" y="2263"/>
+                  <a:pt x="6568" y="2263"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6702" y="2263"/>
+                  <a:pt x="6811" y="2372"/>
+                  <a:pt x="6811" y="2506"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6811" y="2640"/>
+                  <a:pt x="6702" y="2749"/>
+                  <a:pt x="6568" y="2749"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="6568" y="1749"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="6568" y="1615"/>
+                  <a:pt x="6677" y="1506"/>
+                  <a:pt x="6811" y="1506"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6945" y="1506"/>
+                  <a:pt x="7054" y="1615"/>
+                  <a:pt x="7054" y="1749"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7054" y="1883"/>
+                  <a:pt x="6945" y="1992"/>
+                  <a:pt x="6811" y="1992"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6677" y="1992"/>
+                  <a:pt x="6568" y="1883"/>
+                  <a:pt x="6568" y="1749"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="7216" y="3396"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="7081" y="3396"/>
+                  <a:pt x="6973" y="3287"/>
+                  <a:pt x="6973" y="3153"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6973" y="3019"/>
+                  <a:pt x="7081" y="2910"/>
+                  <a:pt x="7216" y="2910"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7350" y="2910"/>
+                  <a:pt x="7459" y="3019"/>
+                  <a:pt x="7459" y="3153"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7459" y="3287"/>
+                  <a:pt x="7350" y="3396"/>
+                  <a:pt x="7216" y="3396"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="7439" y="2659"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="7305" y="2659"/>
+                  <a:pt x="7196" y="2550"/>
+                  <a:pt x="7196" y="2416"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7196" y="2281"/>
+                  <a:pt x="7305" y="2173"/>
+                  <a:pt x="7439" y="2173"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7573" y="2173"/>
+                  <a:pt x="7682" y="2281"/>
+                  <a:pt x="7682" y="2416"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7682" y="2550"/>
+                  <a:pt x="7573" y="2659"/>
+                  <a:pt x="7439" y="2659"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="7592" y="1749"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="7458" y="1749"/>
+                  <a:pt x="7349" y="1640"/>
+                  <a:pt x="7349" y="1506"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7349" y="1372"/>
+                  <a:pt x="7458" y="1263"/>
+                  <a:pt x="7592" y="1263"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7726" y="1263"/>
+                  <a:pt x="7835" y="1372"/>
+                  <a:pt x="7835" y="1506"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7835" y="1640"/>
+                  <a:pt x="7726" y="1749"/>
+                  <a:pt x="7592" y="1749"/>
+                </a:cubicBezTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFFFF"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="71" name="&#20219;&#24847;&#22810;&#36793;&#24418;: &#24418;&#29366; 70"/>
+          <p:cNvSpPr/>
+          <p:nvPr userDrawn="1">
+            <p:custDataLst>
+              <p:tags r:id="rId37"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm rot="5400000">
+            <a:off x="9836331" y="2848834"/>
+            <a:ext cx="519430" cy="477520"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="connsiteX0" fmla="*/ 0 w 913750"/>
+              <a:gd name="connsiteY0" fmla="*/ 89496 h 762286"/>
+              <a:gd name="connsiteX1" fmla="*/ 1 w 913750"/>
+              <a:gd name="connsiteY1" fmla="*/ 672790 h 762286"/>
+              <a:gd name="connsiteX2" fmla="*/ 89497 w 913750"/>
+              <a:gd name="connsiteY2" fmla="*/ 762286 h 762286"/>
+              <a:gd name="connsiteX3" fmla="*/ 588147 w 913750"/>
+              <a:gd name="connsiteY3" fmla="*/ 762286 h 762286"/>
+              <a:gd name="connsiteX4" fmla="*/ 677643 w 913750"/>
+              <a:gd name="connsiteY4" fmla="*/ 672790 h 762286"/>
+              <a:gd name="connsiteX5" fmla="*/ 677643 w 913750"/>
+              <a:gd name="connsiteY5" fmla="*/ 599953 h 762286"/>
+              <a:gd name="connsiteX6" fmla="*/ 913750 w 913750"/>
+              <a:gd name="connsiteY6" fmla="*/ 599953 h 762286"/>
+              <a:gd name="connsiteX7" fmla="*/ 677643 w 913750"/>
+              <a:gd name="connsiteY7" fmla="*/ 385217 h 762286"/>
+              <a:gd name="connsiteX8" fmla="*/ 677642 w 913750"/>
+              <a:gd name="connsiteY8" fmla="*/ 89496 h 762286"/>
+              <a:gd name="connsiteX9" fmla="*/ 588146 w 913750"/>
+              <a:gd name="connsiteY9" fmla="*/ 0 h 762286"/>
+              <a:gd name="connsiteX10" fmla="*/ 89496 w 913750"/>
+              <a:gd name="connsiteY10" fmla="*/ 0 h 762286"/>
+              <a:gd name="connsiteX11" fmla="*/ 0 w 913750"/>
+              <a:gd name="connsiteY11" fmla="*/ 89496 h 762286"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX0" y="connsiteY0"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX1" y="connsiteY1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX2" y="connsiteY2"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX3" y="connsiteY3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX4" y="connsiteY4"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX5" y="connsiteY5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX6" y="connsiteY6"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX7" y="connsiteY7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX8" y="connsiteY8"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX9" y="connsiteY9"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX10" y="connsiteY10"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="connsiteX11" y="connsiteY11"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="l" t="t" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="913750" h="762286">
+                <a:moveTo>
+                  <a:pt x="0" y="89496"/>
+                </a:moveTo>
+                <a:lnTo>
+                  <a:pt x="1" y="672790"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="1" y="722217"/>
+                  <a:pt x="40070" y="762286"/>
+                  <a:pt x="89497" y="762286"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="588147" y="762286"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="637574" y="762286"/>
+                  <a:pt x="677643" y="722217"/>
+                  <a:pt x="677643" y="672790"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="677643" y="599953"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="913750" y="599953"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="677643" y="385217"/>
+                </a:lnTo>
+                <a:lnTo>
+                  <a:pt x="677642" y="89496"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="677642" y="40069"/>
+                  <a:pt x="637573" y="0"/>
+                  <a:pt x="588146" y="0"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="89496" y="0"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="40069" y="0"/>
+                  <a:pt x="0" y="40069"/>
+                  <a:pt x="0" y="89496"/>
+                </a:cubicBezTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFFFF">
+              <a:alpha val="65000"/>
+            </a:srgbClr>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="50000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="72" name="iconfont-1177-866134"/>
+          <p:cNvSpPr>
+            <a:spLocks noChangeAspect="1"/>
+          </p:cNvSpPr>
+          <p:nvPr userDrawn="1">
+            <p:custDataLst>
+              <p:tags r:id="rId38"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr bwMode="auto">
+          <a:xfrm>
+            <a:off x="10000161" y="2897094"/>
+            <a:ext cx="201930" cy="236855"/>
+          </a:xfrm>
+          <a:custGeom>
+            <a:avLst/>
+            <a:gdLst>
+              <a:gd name="T0" fmla="*/ 1472 w 9437"/>
+              <a:gd name="T1" fmla="*/ 5801 h 11045"/>
+              <a:gd name="T2" fmla="*/ 1826 w 9437"/>
+              <a:gd name="T3" fmla="*/ 6349 h 11045"/>
+              <a:gd name="T4" fmla="*/ 2362 w 9437"/>
+              <a:gd name="T5" fmla="*/ 6566 h 11045"/>
+              <a:gd name="T6" fmla="*/ 1733 w 9437"/>
+              <a:gd name="T7" fmla="*/ 7956 h 11045"/>
+              <a:gd name="T8" fmla="*/ 1723 w 9437"/>
+              <a:gd name="T9" fmla="*/ 9652 h 11045"/>
+              <a:gd name="T10" fmla="*/ 4263 w 9437"/>
+              <a:gd name="T11" fmla="*/ 11045 h 11045"/>
+              <a:gd name="T12" fmla="*/ 6080 w 9437"/>
+              <a:gd name="T13" fmla="*/ 10104 h 11045"/>
+              <a:gd name="T14" fmla="*/ 6458 w 9437"/>
+              <a:gd name="T15" fmla="*/ 6677 h 11045"/>
+              <a:gd name="T16" fmla="*/ 6912 w 9437"/>
+              <a:gd name="T17" fmla="*/ 4590 h 11045"/>
+              <a:gd name="T18" fmla="*/ 7946 w 9437"/>
+              <a:gd name="T19" fmla="*/ 5008 h 11045"/>
+              <a:gd name="T20" fmla="*/ 9437 w 9437"/>
+              <a:gd name="T21" fmla="*/ 3516 h 11045"/>
+              <a:gd name="T22" fmla="*/ 7946 w 9437"/>
+              <a:gd name="T23" fmla="*/ 2024 h 11045"/>
+              <a:gd name="T24" fmla="*/ 6454 w 9437"/>
+              <a:gd name="T25" fmla="*/ 3516 h 11045"/>
+              <a:gd name="T26" fmla="*/ 6493 w 9437"/>
+              <a:gd name="T27" fmla="*/ 3853 h 11045"/>
+              <a:gd name="T28" fmla="*/ 5657 w 9437"/>
+              <a:gd name="T29" fmla="*/ 6928 h 11045"/>
+              <a:gd name="T30" fmla="*/ 5403 w 9437"/>
+              <a:gd name="T31" fmla="*/ 9607 h 11045"/>
+              <a:gd name="T32" fmla="*/ 4262 w 9437"/>
+              <a:gd name="T33" fmla="*/ 10206 h 11045"/>
+              <a:gd name="T34" fmla="*/ 2456 w 9437"/>
+              <a:gd name="T35" fmla="*/ 9245 h 11045"/>
+              <a:gd name="T36" fmla="*/ 2444 w 9437"/>
+              <a:gd name="T37" fmla="*/ 8400 h 11045"/>
+              <a:gd name="T38" fmla="*/ 3219 w 9437"/>
+              <a:gd name="T39" fmla="*/ 6615 h 11045"/>
+              <a:gd name="T40" fmla="*/ 3941 w 9437"/>
+              <a:gd name="T41" fmla="*/ 6373 h 11045"/>
+              <a:gd name="T42" fmla="*/ 4303 w 9437"/>
+              <a:gd name="T43" fmla="*/ 5846 h 11045"/>
+              <a:gd name="T44" fmla="*/ 5770 w 9437"/>
+              <a:gd name="T45" fmla="*/ 3255 h 11045"/>
+              <a:gd name="T46" fmla="*/ 5563 w 9437"/>
+              <a:gd name="T47" fmla="*/ 2774 h 11045"/>
+              <a:gd name="T48" fmla="*/ 4984 w 9437"/>
+              <a:gd name="T49" fmla="*/ 714 h 11045"/>
+              <a:gd name="T50" fmla="*/ 4857 w 9437"/>
+              <a:gd name="T51" fmla="*/ 408 h 11045"/>
+              <a:gd name="T52" fmla="*/ 4362 w 9437"/>
+              <a:gd name="T53" fmla="*/ 85 h 11045"/>
+              <a:gd name="T54" fmla="*/ 4000 w 9437"/>
+              <a:gd name="T55" fmla="*/ 180 h 11045"/>
+              <a:gd name="T56" fmla="*/ 3764 w 9437"/>
+              <a:gd name="T57" fmla="*/ 636 h 11045"/>
+              <a:gd name="T58" fmla="*/ 3904 w 9437"/>
+              <a:gd name="T59" fmla="*/ 964 h 11045"/>
+              <a:gd name="T60" fmla="*/ 4463 w 9437"/>
+              <a:gd name="T61" fmla="*/ 1129 h 11045"/>
+              <a:gd name="T62" fmla="*/ 4855 w 9437"/>
+              <a:gd name="T63" fmla="*/ 979 h 11045"/>
+              <a:gd name="T64" fmla="*/ 5288 w 9437"/>
+              <a:gd name="T65" fmla="*/ 2733 h 11045"/>
+              <a:gd name="T66" fmla="*/ 4962 w 9437"/>
+              <a:gd name="T67" fmla="*/ 3032 h 11045"/>
+              <a:gd name="T68" fmla="*/ 3863 w 9437"/>
+              <a:gd name="T69" fmla="*/ 5107 h 11045"/>
+              <a:gd name="T70" fmla="*/ 3282 w 9437"/>
+              <a:gd name="T71" fmla="*/ 5140 h 11045"/>
+              <a:gd name="T72" fmla="*/ 2919 w 9437"/>
+              <a:gd name="T73" fmla="*/ 5240 h 11045"/>
+              <a:gd name="T74" fmla="*/ 2894 w 9437"/>
+              <a:gd name="T75" fmla="*/ 5240 h 11045"/>
+              <a:gd name="T76" fmla="*/ 2510 w 9437"/>
+              <a:gd name="T77" fmla="*/ 5129 h 11045"/>
+              <a:gd name="T78" fmla="*/ 1937 w 9437"/>
+              <a:gd name="T79" fmla="*/ 5082 h 11045"/>
+              <a:gd name="T80" fmla="*/ 862 w 9437"/>
+              <a:gd name="T81" fmla="*/ 3032 h 11045"/>
+              <a:gd name="T82" fmla="*/ 535 w 9437"/>
+              <a:gd name="T83" fmla="*/ 2733 h 11045"/>
+              <a:gd name="T84" fmla="*/ 968 w 9437"/>
+              <a:gd name="T85" fmla="*/ 979 h 11045"/>
+              <a:gd name="T86" fmla="*/ 1360 w 9437"/>
+              <a:gd name="T87" fmla="*/ 1129 h 11045"/>
+              <a:gd name="T88" fmla="*/ 1919 w 9437"/>
+              <a:gd name="T89" fmla="*/ 964 h 11045"/>
+              <a:gd name="T90" fmla="*/ 2059 w 9437"/>
+              <a:gd name="T91" fmla="*/ 636 h 11045"/>
+              <a:gd name="T92" fmla="*/ 1824 w 9437"/>
+              <a:gd name="T93" fmla="*/ 181 h 11045"/>
+              <a:gd name="T94" fmla="*/ 1461 w 9437"/>
+              <a:gd name="T95" fmla="*/ 85 h 11045"/>
+              <a:gd name="T96" fmla="*/ 966 w 9437"/>
+              <a:gd name="T97" fmla="*/ 408 h 11045"/>
+              <a:gd name="T98" fmla="*/ 839 w 9437"/>
+              <a:gd name="T99" fmla="*/ 714 h 11045"/>
+              <a:gd name="T100" fmla="*/ 260 w 9437"/>
+              <a:gd name="T101" fmla="*/ 2775 h 11045"/>
+              <a:gd name="T102" fmla="*/ 53 w 9437"/>
+              <a:gd name="T103" fmla="*/ 3256 h 11045"/>
+              <a:gd name="T104" fmla="*/ 1472 w 9437"/>
+              <a:gd name="T105" fmla="*/ 5801 h 11045"/>
+              <a:gd name="T106" fmla="*/ 7946 w 9437"/>
+              <a:gd name="T107" fmla="*/ 2933 h 11045"/>
+              <a:gd name="T108" fmla="*/ 8528 w 9437"/>
+              <a:gd name="T109" fmla="*/ 3516 h 11045"/>
+              <a:gd name="T110" fmla="*/ 7946 w 9437"/>
+              <a:gd name="T111" fmla="*/ 4099 h 11045"/>
+              <a:gd name="T112" fmla="*/ 7363 w 9437"/>
+              <a:gd name="T113" fmla="*/ 3516 h 11045"/>
+              <a:gd name="T114" fmla="*/ 7946 w 9437"/>
+              <a:gd name="T115" fmla="*/ 2933 h 11045"/>
+            </a:gdLst>
+            <a:ahLst/>
+            <a:cxnLst>
+              <a:cxn ang="0">
+                <a:pos x="T0" y="T1"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T2" y="T3"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T4" y="T5"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T6" y="T7"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T8" y="T9"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T10" y="T11"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T12" y="T13"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T14" y="T15"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T16" y="T17"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T18" y="T19"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T20" y="T21"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T22" y="T23"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T24" y="T25"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T26" y="T27"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T28" y="T29"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T30" y="T31"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T32" y="T33"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T34" y="T35"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T36" y="T37"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T38" y="T39"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T40" y="T41"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T42" y="T43"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T44" y="T45"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T46" y="T47"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T48" y="T49"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T50" y="T51"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T52" y="T53"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T54" y="T55"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T56" y="T57"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T58" y="T59"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T60" y="T61"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T62" y="T63"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T64" y="T65"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T66" y="T67"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T68" y="T69"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T70" y="T71"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T72" y="T73"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T74" y="T75"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T76" y="T77"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T78" y="T79"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T80" y="T81"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T82" y="T83"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T84" y="T85"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T86" y="T87"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T88" y="T89"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T90" y="T91"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T92" y="T93"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T94" y="T95"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T96" y="T97"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T98" y="T99"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T100" y="T101"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T102" y="T103"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T104" y="T105"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T106" y="T107"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T108" y="T109"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T110" y="T111"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T112" y="T113"/>
+              </a:cxn>
+              <a:cxn ang="0">
+                <a:pos x="T114" y="T115"/>
+              </a:cxn>
+            </a:cxnLst>
+            <a:rect l="0" t="0" r="r" b="b"/>
+            <a:pathLst>
+              <a:path w="9437" h="11045">
+                <a:moveTo>
+                  <a:pt x="1472" y="5801"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="1492" y="6023"/>
+                  <a:pt x="1617" y="6232"/>
+                  <a:pt x="1826" y="6349"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2000" y="6446"/>
+                  <a:pt x="2179" y="6518"/>
+                  <a:pt x="2362" y="6566"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2259" y="6914"/>
+                  <a:pt x="2070" y="7417"/>
+                  <a:pt x="1733" y="7956"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1413" y="8468"/>
+                  <a:pt x="1409" y="9086"/>
+                  <a:pt x="1723" y="9652"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2185" y="10485"/>
+                  <a:pt x="3205" y="11045"/>
+                  <a:pt x="4263" y="11045"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="4989" y="11045"/>
+                  <a:pt x="5634" y="10711"/>
+                  <a:pt x="6080" y="10104"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6717" y="9236"/>
+                  <a:pt x="6859" y="7954"/>
+                  <a:pt x="6458" y="6677"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6086" y="5493"/>
+                  <a:pt x="6583" y="4862"/>
+                  <a:pt x="6912" y="4590"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7180" y="4848"/>
+                  <a:pt x="7544" y="5008"/>
+                  <a:pt x="7946" y="5008"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="8769" y="5008"/>
+                  <a:pt x="9437" y="4340"/>
+                  <a:pt x="9437" y="3516"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="9437" y="2692"/>
+                  <a:pt x="8769" y="2024"/>
+                  <a:pt x="7946" y="2024"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7122" y="2024"/>
+                  <a:pt x="6454" y="2692"/>
+                  <a:pt x="6454" y="3516"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="6454" y="3632"/>
+                  <a:pt x="6468" y="3744"/>
+                  <a:pt x="6493" y="3853"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5872" y="4307"/>
+                  <a:pt x="5155" y="5330"/>
+                  <a:pt x="5657" y="6928"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5973" y="7937"/>
+                  <a:pt x="5876" y="8963"/>
+                  <a:pt x="5403" y="9607"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5203" y="9880"/>
+                  <a:pt x="4842" y="10206"/>
+                  <a:pt x="4262" y="10206"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="3513" y="10206"/>
+                  <a:pt x="2770" y="9811"/>
+                  <a:pt x="2456" y="9245"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2341" y="9036"/>
+                  <a:pt x="2245" y="8720"/>
+                  <a:pt x="2444" y="8400"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2890" y="7687"/>
+                  <a:pt x="3113" y="7022"/>
+                  <a:pt x="3219" y="6615"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="3466" y="6577"/>
+                  <a:pt x="3708" y="6497"/>
+                  <a:pt x="3941" y="6373"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="4148" y="6263"/>
+                  <a:pt x="4275" y="6062"/>
+                  <a:pt x="4303" y="5846"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5289" y="4955"/>
+                  <a:pt x="5744" y="3349"/>
+                  <a:pt x="5770" y="3255"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5823" y="3062"/>
+                  <a:pt x="5733" y="2864"/>
+                  <a:pt x="5563" y="2774"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5699" y="1569"/>
+                  <a:pt x="5253" y="962"/>
+                  <a:pt x="4984" y="714"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5005" y="598"/>
+                  <a:pt x="4958" y="474"/>
+                  <a:pt x="4857" y="408"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="4362" y="85"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="4233" y="0"/>
+                  <a:pt x="4070" y="43"/>
+                  <a:pt x="4000" y="180"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="3764" y="636"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="3693" y="773"/>
+                  <a:pt x="3756" y="920"/>
+                  <a:pt x="3904" y="964"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="4463" y="1129"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="4605" y="1171"/>
+                  <a:pt x="4775" y="1103"/>
+                  <a:pt x="4855" y="979"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5078" y="1213"/>
+                  <a:pt x="5399" y="1736"/>
+                  <a:pt x="5288" y="2733"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="5136" y="2762"/>
+                  <a:pt x="5006" y="2873"/>
+                  <a:pt x="4962" y="3032"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="4827" y="3514"/>
+                  <a:pt x="4439" y="4510"/>
+                  <a:pt x="3863" y="5107"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="3680" y="5037"/>
+                  <a:pt x="3469" y="5040"/>
+                  <a:pt x="3282" y="5140"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="3160" y="5205"/>
+                  <a:pt x="3041" y="5238"/>
+                  <a:pt x="2919" y="5240"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="2894" y="5240"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="2765" y="5237"/>
+                  <a:pt x="2639" y="5201"/>
+                  <a:pt x="2510" y="5129"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="2328" y="5027"/>
+                  <a:pt x="2120" y="5018"/>
+                  <a:pt x="1937" y="5082"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1374" y="4482"/>
+                  <a:pt x="994" y="3507"/>
+                  <a:pt x="862" y="3032"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="817" y="2873"/>
+                  <a:pt x="687" y="2762"/>
+                  <a:pt x="535" y="2733"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="424" y="1736"/>
+                  <a:pt x="745" y="1214"/>
+                  <a:pt x="968" y="979"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="1049" y="1103"/>
+                  <a:pt x="1218" y="1171"/>
+                  <a:pt x="1360" y="1129"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1919" y="964"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="2067" y="920"/>
+                  <a:pt x="2130" y="773"/>
+                  <a:pt x="2059" y="636"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="1824" y="181"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="1753" y="43"/>
+                  <a:pt x="1590" y="1"/>
+                  <a:pt x="1461" y="85"/>
+                </a:cubicBezTo>
+                <a:lnTo>
+                  <a:pt x="966" y="408"/>
+                </a:lnTo>
+                <a:cubicBezTo>
+                  <a:pt x="865" y="475"/>
+                  <a:pt x="818" y="599"/>
+                  <a:pt x="839" y="714"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="570" y="962"/>
+                  <a:pt x="124" y="1569"/>
+                  <a:pt x="260" y="2775"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="90" y="2865"/>
+                  <a:pt x="0" y="3063"/>
+                  <a:pt x="53" y="3256"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="78" y="3348"/>
+                  <a:pt x="520" y="4902"/>
+                  <a:pt x="1472" y="5801"/>
+                </a:cubicBezTo>
+                <a:close/>
+                <a:moveTo>
+                  <a:pt x="7946" y="2933"/>
+                </a:moveTo>
+                <a:cubicBezTo>
+                  <a:pt x="8267" y="2933"/>
+                  <a:pt x="8528" y="3194"/>
+                  <a:pt x="8528" y="3516"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="8528" y="3838"/>
+                  <a:pt x="8267" y="4099"/>
+                  <a:pt x="7946" y="4099"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7624" y="4099"/>
+                  <a:pt x="7363" y="3838"/>
+                  <a:pt x="7363" y="3516"/>
+                </a:cubicBezTo>
+                <a:cubicBezTo>
+                  <a:pt x="7363" y="3194"/>
+                  <a:pt x="7624" y="2933"/>
+                  <a:pt x="7946" y="2933"/>
+                </a:cubicBezTo>
+                <a:close/>
+              </a:path>
+            </a:pathLst>
+          </a:custGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFFFF"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="6" name="&#26631;&#39064; 5"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr userDrawn="1">
+            <p:ph type="title" idx="16385" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId39"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1903942" y="3530600"/>
+            <a:ext cx="8384117" cy="1524000"/>
+          </a:xfrm>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr vert="horz" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="ctr">
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="4800" b="0" spc="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" dirty="0"/>
+              <a:t>&#21333;&#20987;&#27492;&#22788;&#28155;&#21152;&#31456;&#33410;&#26631;&#39064;</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="&#25991;&#26412;&#21344;&#20301;&#31526; 6"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr userDrawn="1">
+            <p:ph type="body" idx="16386" hasCustomPrompt="1"/>
+            <p:custDataLst>
+              <p:tags r:id="rId40"/>
+            </p:custDataLst>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="5332413" y="1905000"/>
+            <a:ext cx="1527175" cy="1524000"/>
+          </a:xfrm>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr vert="horz" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr" anchorCtr="0">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" indent="0" algn="ctr">
+              <a:lnSpc>
+                <a:spcPct val="109000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPct val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPct val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+              <a:defRPr sz="7200" b="1" spc="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr lvl="0"/>
+            <a:r>
+              <a:rPr lang="zh-CN" altLang="en-US" dirty="0"/>
+              <a:t>01</a:t>
+            </a:r>
+            <a:endParaRPr lang="zh-CN" altLang="en-US" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:overrideClrMapping bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+  </p:clrMapOvr>
+</p:sldLayout>

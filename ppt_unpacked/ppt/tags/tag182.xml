@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:tagLst xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:tag name="KSO_WM_TEMPLATE_SUBCATEGORY" val="29"/>
+  <p:tag name="KSO_WM_BEAUTIFY_FLAG" val="#wm#"/>
+  <p:tag name="KSO_WM_TEMPLATE_SLIDE_ID" val="slide_d799d37ec7ee1a76"/>
+  <p:tag name="KSO_WM_TEMPLATE_THUMBS_INDEX" val="1&#12289;9"/>
+  <p:tag name="KSO_WM_TEMPLATE_INDEX" val="40480485"/>
+  <p:tag name="KSO_WM_TEMPLATE_CATEGORY" val="custom"/>
+  <p:tag name="KSO_WM_TEMPLATE_MASTER_TYPE" val="0"/>
+  <p:tag name="KSO_WM_TAG_VERSION" val="3.0"/>
+</p:tagLst>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 32pt 48pt 40pt 48pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #F8F4EE;
+  font-family: Arial, sans-serif;
+}
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12pt;
+  margin-bottom: 30pt;
+}
+.header-line {
+  width: 4pt; height: 24pt; background: #C4944A;
+}
+.header-title {
+  color: #5C3D2E;
+  font-size: 18pt;
+  font-weight: bold;
+  font-family: Georgia, serif;
+  margin: 0;
+  letter-spacing: 2pt;
+}
+.toc-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 16pt;
+  flex: 1 1 0;
+  min-height: 0;
+}
+.toc-item {
+  background: #fff;
+  border: 1pt solid #D4B896;
+  border-left: 4pt solid #C4944A;
+  border-radius: 3pt;
+  padding: 16pt 18pt;
+  display: flex;
+  align-items: center;
+  gap: 14pt;
+  box-sizing: border-box;
+  min-height: 0;
+}
+.toc-num {
+  color: #C4944A;
+  font-size: 28pt;
+  font-weight: bold;
+  font-family: Georgia, serif;
+  min-width: 32pt;
+}
+.toc-text {}
+.toc-label {
+  color: #8B5E3C;
+  font-size: 9pt;
+  margin: 0 0 3pt 0;
+  letter-spacing: 1pt;
+}
+.toc-main {
+  color: #5C3D2E;
+  font-size: 13pt;
+  font-weight: bold;
+  margin: 0;
+  font-family: Georgia, serif;
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-line"></div>
+  <p class="header-title">目 录</p>
+</div>
+<div class="toc-grid">
+  <div class="toc-item">
+    <p class="toc-num">01</p>
+    <div class="toc-text">
+      <p class="toc-label">ABOUT US</p>
+      <p class="toc-main">关于我们：整合力量，专业致胜</p>
+    </div>
+  </div>
+  <div class="toc-item">
+    <p class="toc-num">02</p>
+    <div class="toc-text">
+      <p class="toc-label">CORE TEAM</p>
+      <p class="toc-main">核心团队：精英荟萃，实力护航</p>
+    </div>
+  </div>
+  <div class="toc-item">
+    <p class="toc-num">03</p>
+    <div class="toc-text">
+      <p class="toc-label">OPERATION</p>
+      <p class="toc-main">运营方案：精准施策，价值共创</p>
+    </div>
+  </div>
+  <div class="toc-item">
+    <p class="toc-num">04</p>
+    <div class="toc-text">
+      <p class="toc-label">COOPERATION</p>
+      <p class="toc-main">合作模式：携手共赢，展望未来</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

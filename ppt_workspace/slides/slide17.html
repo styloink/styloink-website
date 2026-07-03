@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 26pt 36pt 24pt 36pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #F8F4EE;
+  font-family: Arial, sans-serif;
+}
+.header { display: flex; align-items: center; gap: 10pt; margin-bottom: 18pt; }
+.header-line { width: 4pt; height: 20pt; background: #C4944A; }
+.header-title { color: #5C3D2E; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.header-sub { color: #8B5E3C; font-size: 10pt; margin: 0 0 0 8pt; }
+.content-row {
+  display: grid;
+  grid-template-columns: 1fr 200pt;
+  gap: 18pt;
+  flex: 1 1 0;
+  min-height: 0;
+}
+.matrix-area {
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 10pt;
+}
+.matrix-cell {
+  background: #fff;
+  border: 1pt solid #D4B896;
+  border-radius: 4pt;
+  padding: 12pt 14pt;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 6pt;
+  min-height: 0;
+}
+.cell-title { color: #5C3D2E; font-size: 11pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.cell-tags { display: flex; gap: 5pt; flex-wrap: wrap; }
+.cell-tag { background: #F0E8DE; border: 1pt solid #D4B896; border-radius: 2pt; padding: 2pt 6pt; }
+.cell-tag-text { color: #8B5E3C; font-size: 8pt; margin: 0; }
+.cell-tag.dark { background: #5C3D2E; border-color: #5C3D2E; }
+.cell-tag.dark .cell-tag-text { color: #C4944A; }
+.summary-panel {
+  background: #5C3D2E;
+  border-radius: 4pt;
+  padding: 18pt 16pt;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 14pt;
+  min-height: 0;
+  justify-content: center;
+}
+.sum-title { color: #C4944A; font-size: 11pt; font-weight: bold; font-family: Georgia, serif; margin: 0; letter-spacing: 1pt; text-align: center; }
+.sum-divider { width: 100%; height: 1pt; background: #8B5E3C; }
+.sum-item { text-align: center; }
+.sum-label { color: #F8F4EE; font-size: 12pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.sum-sub { color: #D4B896; font-size: 9pt; margin: 3pt 0 0 0; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-line"></div>
+  <p class="header-title">运营方案总结</p>
+  <p class="header-sub">—— 业务矩阵</p>
+</div>
+<div class="content-row">
+  <div class="matrix-area">
+    <div class="matrix-cell">
+      <p class="cell-title">中医特色</p>
+      <div class="cell-tags">
+        <div class="cell-tag dark"><p class="cell-tag-text">慢病管理</p></div>
+        <div class="cell-tag"><p class="cell-tag-text">特色专科</p></div>
+      </div>
+    </div>
+    <div class="matrix-cell">
+      <p class="cell-title">西医辅助</p>
+      <div class="cell-tags">
+        <div class="cell-tag"><p class="cell-tag-text">慢病管理</p></div>
+        <div class="cell-tag dark"><p class="cell-tag-text">特色专科</p></div>
+      </div>
+    </div>
+    <div class="matrix-cell">
+      <p class="cell-title">慢病管理</p>
+      <div class="cell-tags">
+        <div class="cell-tag dark"><p class="cell-tag-text">中医特色</p></div>
+        <div class="cell-tag"><p class="cell-tag-text">西医辅助</p></div>
+      </div>
+    </div>
+    <div class="matrix-cell">
+      <p class="cell-title">特色专科</p>
+      <div class="cell-tags">
+        <div class="cell-tag"><p class="cell-tag-text">慢病管理</p></div>
+        <div class="cell-tag dark"><p class="cell-tag-text">西医辅助</p></div>
+      </div>
+    </div>
+  </div>
+  <div class="summary-panel">
+    <p class="sum-title">核心结论</p>
+    <div class="sum-divider"></div>
+    <div class="sum-item">
+      <p class="sum-label">结构清晰</p>
+      <p class="sum-sub">模块化运营体系</p>
+    </div>
+    <div class="sum-item">
+      <p class="sum-label">优势互补</p>
+      <p class="sum-sub">中西医深度协同</p>
+    </div>
+    <div class="sum-item">
+      <p class="sum-label">覆盖全面</p>
+      <p class="sum-sub">慢病+专科双轮驱动</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

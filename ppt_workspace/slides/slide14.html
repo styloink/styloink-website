@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 28pt 40pt 28pt 40pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #F8F4EE;
+  font-family: Arial, sans-serif;
+}
+.header { display: flex; align-items: center; gap: 10pt; margin-bottom: 24pt; }
+.header-line { width: 4pt; height: 20pt; background: #C4944A; }
+.header-title { color: #5C3D2E; font-size: 15pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.strategy-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 18pt;
+  flex: 1 1 0;
+  min-height: 0;
+}
+.s-card {
+  background: #fff;
+  border: 1pt solid #D4B896;
+  border-radius: 4pt;
+  padding: 20pt 18pt;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10pt;
+  min-height: 0;
+}
+.s-num-ring {
+  width: 48pt; height: 48pt; border-radius: 50%;
+  border: 2pt solid #C4944A;
+  display: flex; align-items: center; justify-content: center;
+  background: #F8F4EE;
+}
+.s-num { color: #C4944A; font-size: 20pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.s-label { color: #8B5E3C; font-size: 9pt; margin: 0; letter-spacing: 1pt; text-align: center; }
+.s-divider { width: 30pt; height: 2pt; background: #C4944A; }
+.s-title { color: #5C3D2E; font-size: 13pt; font-weight: bold; font-family: Georgia, serif; margin: 0; text-align: center; }
+.s-desc { color: #6B5040; font-size: 10pt; line-height: 1.6; margin: 0; text-align: center; }
+.s-card.highlight-card {
+  background: #5C3D2E;
+  border-color: #5C3D2E;
+}
+.s-card.highlight-card .s-num-ring { background: transparent; border-color: #C4944A; }
+.s-card.highlight-card .s-num { color: #C4944A; }
+.s-card.highlight-card .s-label { color: #D4B896; }
+.s-card.highlight-card .s-title { color: #F8F4EE; }
+.s-card.highlight-card .s-desc { color: #D4B896; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-line"></div>
+  <p class="header-title">总体运营策略</p>
+</div>
+<div class="strategy-grid">
+  <div class="s-card">
+    <div class="s-num-ring"><p class="s-num">策</p></div>
+    <p class="s-label">STRATEGY</p>
+    <div class="s-divider"></div>
+    <p class="s-title">核心策略</p>
+    <p class="s-desc">中医为主，西医为辅，传统与现代深度融合</p>
+  </div>
+  <div class="s-card highlight-card">
+    <div class="s-num-ring"><p class="s-num">服</p></div>
+    <p class="s-label">SERVICE</p>
+    <div class="s-divider"></div>
+    <p class="s-title">服务核心</p>
+    <p class="s-desc">围绕慢病管理和特色疑难专科，开展核心诊疗业务</p>
+  </div>
+  <div class="s-card">
+    <div class="s-num-ring"><p class="s-num">目</p></div>
+    <p class="s-label">GOAL</p>
+    <div class="s-divider"></div>
+    <p class="s-title">战略目标</p>
+    <p class="s-desc">打造差异化、高附加值的医疗服务，提升门诊核心竞争力与盈利能力</p>
+  </div>
+</div>
+</body>
+</html>

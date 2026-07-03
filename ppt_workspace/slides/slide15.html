@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 26pt 36pt 24pt 36pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #F8F4EE;
+  font-family: Arial, sans-serif;
+}
+.header { display: flex; align-items: center; gap: 10pt; margin-bottom: 18pt; }
+.header-line { width: 4pt; height: 20pt; background: #C4944A; }
+.header-title { color: #5C3D2E; font-size: 14pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.header-sub { color: #8B5E3C; font-size: 10pt; margin: 0 0 0 8pt; }
+.modules-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 12pt;
+  flex: 1 1 0;
+  min-height: 0;
+}
+.mod-card {
+  background: #fff;
+  border: 1pt solid #D4B896;
+  border-radius: 4pt;
+  padding: 14pt 12pt;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 8pt;
+  min-height: 0;
+}
+.mod-num-box {
+  background: #5C3D2E;
+  border-radius: 3pt;
+  padding: 4pt 8pt;
+  display: inline-block;
+  width: fit-content;
+}
+.mod-num { color: #C4944A; font-size: 11pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.mod-title { color: #5C3D2E; font-size: 11pt; font-weight: bold; font-family: Georgia, serif; margin: 0; }
+.mod-divider { width: 100%; height: 1pt; background: #E8DDD0; }
+.mod-points { margin: 0; padding: 0; }
+.mod-point {
+  color: #6B5040; font-size: 9pt; line-height: 1.6; margin: 0;
+  padding: 0; list-style: none; padding-left: 10pt; position: relative;
+}
+.mod-point::before { content: "·"; position: absolute; left: 0; color: #C4944A; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-line"></div>
+  <p class="header-title">核心业务模块</p>
+  <p class="header-sub">—— 慢病管理中心</p>
+</div>
+<div class="modules-grid">
+  <div class="mod-card">
+    <div class="mod-num-box"><p class="mod-num">01</p></div>
+    <p class="mod-title">血压健康管理</p>
+    <div class="mod-divider"></div>
+    <ul class="mod-points">
+      <li class="mod-point">建立个人健康档案，定期监测</li>
+      <li class="mod-point">中西医结合调理</li>
+      <li class="mod-point">生活方式干预</li>
+    </ul>
+  </div>
+  <div class="mod-card">
+    <div class="mod-num-box"><p class="mod-num">02</p></div>
+    <p class="mod-title">代谢健康管理</p>
+    <div class="mod-divider"></div>
+    <ul class="mod-points">
+      <li class="mod-point">涵盖血糖、血脂、尿酸综合管理</li>
+      <li class="mod-point">提供饮食、运动方案</li>
+      <li class="mod-point">药物调理方案</li>
+    </ul>
+  </div>
+  <div class="mod-card">
+    <div class="mod-num-box"><p class="mod-num">03</p></div>
+    <p class="mod-title">围绝经期妇科</p>
+    <div class="mod-divider"></div>
+    <ul class="mod-points">
+      <li class="mod-point">针对女性更年期症状</li>
+      <li class="mod-point">中医辨证调理</li>
+      <li class="mod-point">专业健康指导</li>
+    </ul>
+  </div>
+  <div class="mod-card">
+    <div class="mod-num-box"><p class="mod-num">04</p></div>
+    <p class="mod-title">前列腺专科管理</p>
+    <div class="mod-divider"></div>
+    <ul class="mod-points">
+      <li class="mod-point">男性前列腺健康评估</li>
+      <li class="mod-point">中医理疗</li>
+      <li class="mod-point">个性化养护方案</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>

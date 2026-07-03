@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="rect 2"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="0" y="0"/>
+            <a:ext cx="15120620" cy="7560310"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="766B56">
+              <a:alpha val="84705"/>
+            </a:srgbClr>
+          </a:solidFill>
+          <a:ln w="0" cap="flat">
+            <a:noFill/>
+            <a:prstDash val="solid"/>
+            <a:miter lim="0"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr rtlCol="0"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="4" name="rect 4"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="3779990" y="1676400"/>
+            <a:ext cx="7559992" cy="3962400"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFF101">
+              <a:alpha val="100000"/>
+            </a:srgbClr>
+          </a:solidFill>
+          <a:ln w="0" cap="flat">
+            <a:noFill/>
+            <a:prstDash val="solid"/>
+            <a:miter lim="0"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr rtlCol="0"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="zh-CN" altLang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="6" name="picture 6"/>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId1"/>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm rot="21600000">
+            <a:off x="2157095" y="426720"/>
+            <a:ext cx="10806430" cy="5664200"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="8" name="textbox 8"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="3404705" y="4352290"/>
+            <a:ext cx="7560309" cy="1524000"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="766B56">
+              <a:alpha val="69803"/>
+            </a:srgbClr>
+          </a:solidFill>
+          <a:ln w="0" cap="flat">
+            <a:noFill/>
+            <a:prstDash val="solid"/>
+            <a:miter lim="0"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr vert="horz" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="105000"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:endParaRPr sz="1000" dirty="0">
+              <a:latin typeface="Arial" panose="020B0604020202020204"/>
+              <a:ea typeface="Arial" panose="020B0604020202020204"/>
+              <a:cs typeface="Arial" panose="020B0604020202020204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="105000"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:endParaRPr sz="1000" dirty="0">
+              <a:latin typeface="Arial" panose="020B0604020202020204"/>
+              <a:ea typeface="Arial" panose="020B0604020202020204"/>
+              <a:cs typeface="Arial" panose="020B0604020202020204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="106000"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:endParaRPr sz="1000" dirty="0">
+              <a:latin typeface="Arial" panose="020B0604020202020204"/>
+              <a:ea typeface="Arial" panose="020B0604020202020204"/>
+              <a:cs typeface="Arial" panose="020B0604020202020204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="10000"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:endParaRPr sz="100" dirty="0">
+              <a:latin typeface="Arial" panose="020B0604020202020204"/>
+              <a:ea typeface="Arial" panose="020B0604020202020204"/>
+              <a:cs typeface="Arial" panose="020B0604020202020204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="756285" algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPts val="2085"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="3000" kern="0" spc="180" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>ARCHITECTU</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="3000" kern="0" spc="170" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>RE</a:t>
+            </a:r>
+            <a:endParaRPr sz="3000" dirty="0">
+              <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+              <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+              <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="775335" algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPts val="4290"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="3000" kern="0" spc="170" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>PROPOSAL</a:t>
+            </a:r>
+            <a:endParaRPr sz="3000" dirty="0">
+              <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+              <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+              <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="10" name="textbox 10"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4519929" y="6204920"/>
+            <a:ext cx="1910714" cy="814069"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln w="0" cap="flat">
+            <a:noFill/>
+            <a:prstDash val="solid"/>
+            <a:miter lim="0"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr vert="horz" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="83000"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:endParaRPr sz="100" dirty="0">
+              <a:solidFill>
+                <a:schemeClr val="bg1"/>
+              </a:solidFill>
+              <a:latin typeface="Arial" panose="020B0604020202020204"/>
+              <a:ea typeface="Arial" panose="020B0604020202020204"/>
+              <a:cs typeface="Arial" panose="020B0604020202020204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="12700" algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPts val="1720"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="90" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>837690</a:t>
+            </a:r>
+            <a:endParaRPr sz="1200" dirty="0">
+              <a:solidFill>
+                <a:schemeClr val="bg1"/>
+              </a:solidFill>
+              <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+              <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+              <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="18415" algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="74000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="195"/>
+              </a:spcBef>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="110" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+                <a:hlinkClick r:id="rId2">
+                  <a:extLst>
+                    <a:ext uri="{DAF060AB-1E55-43B9-8AAB-6FB025537F2F}">
+                      <wpsdc:hlinkClr xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="57585A"/>
+                      <wpsdc:folHlinkClr xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="57585A"/>
+                      <wpsdc:hlinkUnderline xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="0"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:hlinkClick>
+              </a:rPr>
+              <a:t>HTTP://ZYJZSJ.</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-80" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+                <a:hlinkClick r:id="rId2">
+                  <a:extLst>
+                    <a:ext uri="{DAF060AB-1E55-43B9-8AAB-6FB025537F2F}">
+                      <wpsdc:hlinkClr xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="57585A"/>
+                      <wpsdc:folHlinkClr xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="57585A"/>
+                      <wpsdc:hlinkUnderline xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="0"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:hlinkClick>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="110" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+                <a:hlinkClick r:id="rId2">
+                  <a:extLst>
+                    <a:ext uri="{DAF060AB-1E55-43B9-8AAB-6FB025537F2F}">
+                      <wpsdc:hlinkClr xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="57585A"/>
+                      <wpsdc:folHlinkClr xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="57585A"/>
+                      <wpsdc:hlinkUnderline xmlns:wpsdc="http://www.wps.cn/officeDocument/2017/drawingmlCustomData" val="0"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:hlinkClick>
+              </a:rPr>
+              <a:t>CN</a:t>
+            </a:r>
+            <a:endParaRPr sz="1200" dirty="0">
+              <a:solidFill>
+                <a:schemeClr val="bg1"/>
+              </a:solidFill>
+              <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+              <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+              <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="18415" algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPts val="1720"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="220"/>
+              </a:spcBef>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="0" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>FAX</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="80" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>:</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="300" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="80" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>025</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-120" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="80" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>-</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-110" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="80" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>84540119</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-120" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="80" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>-</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-110" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="80" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>8019</a:t>
+            </a:r>
+            <a:endParaRPr sz="1200" dirty="0">
+              <a:solidFill>
+                <a:schemeClr val="bg1"/>
+              </a:solidFill>
+              <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+              <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+              <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="18415" algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="75000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="205"/>
+              </a:spcBef>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="70" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>E</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-130" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="70" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>-</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-80" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="70" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>MAIL:nj</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="60" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>zy</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-120" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="60" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>sj@126</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-90" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="60" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>.</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="-110" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1200" kern="0" spc="60" dirty="0">
+                <a:solidFill>
+                  <a:schemeClr val="bg1">
+                    <a:alpha val="100000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+                <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+              </a:rPr>
+              <a:t>com</a:t>
+            </a:r>
+            <a:endParaRPr sz="1200" kern="0" spc="60" dirty="0">
+              <a:solidFill>
+                <a:schemeClr val="bg1">
+                  <a:alpha val="100000"/>
+                </a:schemeClr>
+              </a:solidFill>
+              <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+              <a:ea typeface="Calibri" panose="020F0502020204030204"/>
+              <a:cs typeface="Calibri" panose="020F0502020204030204"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="12" name="textbox 12"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="5551119" y="905291"/>
+            <a:ext cx="1375410" cy="408305"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln w="0" cap="flat">
+            <a:noFill/>
+            <a:prstDash val="solid"/>
+            <a:miter lim="0"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr vert="horz" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="89000"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:endParaRPr sz="100" dirty="0">
+              <a:latin typeface="Arial" panose="020B0604020202020204"/>
+              <a:ea typeface="Arial" panose="020B0604020202020204"/>
+              <a:cs typeface="Arial" panose="020B0604020202020204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="24765" algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="86000"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1800" b="1" kern="0" spc="-50" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t>&#20013;</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1800" b="1" kern="0" spc="230" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1800" b="1" kern="0" spc="-50" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t>&#33402;</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1800" b="1" kern="0" spc="200" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1800" b="1" kern="0" spc="-50" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t>&#32929;</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1800" b="1" kern="0" spc="210" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1800" b="1" kern="0" spc="-50" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t>&#20221;</a:t>
+            </a:r>
+            <a:endParaRPr sz="1800" dirty="0">
+              <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="119000"/>
+              </a:lnSpc>
+            </a:pPr>
+            <a:endParaRPr sz="200" dirty="0">
+              <a:latin typeface="Arial" panose="020B0604020202020204"/>
+              <a:ea typeface="Arial" panose="020B0604020202020204"/>
+              <a:cs typeface="Arial" panose="020B0604020202020204"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="12700" algn="l" rtl="0" eaLnBrk="0">
+              <a:lnSpc>
+                <a:spcPct val="80000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="900" kern="0" spc="-30" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t>ZHONGYI</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="900" kern="0" spc="80" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t> </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="900" kern="0" spc="-30" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF">
+                    <a:alpha val="100000"/>
+                  </a:srgbClr>
+                </a:solidFill>
+                <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+                <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              </a:rPr>
+              <a:t>ARCHITECTURE</a:t>
+            </a:r>
+            <a:endParaRPr sz="900" dirty="0">
+              <a:latin typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              <a:ea typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+              <a:cs typeface="&#24494;&#36719;&#38597;&#40657;" panose="020B0503020204020204" charset="-122"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sld>
