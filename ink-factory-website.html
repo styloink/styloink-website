@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>蓝溪墨水 — 专业印刷油墨制造商</title>
+  <style>
+    /* ===== CSS Variables ===== */
+    :root {
+      --blue-900: #0F1D3D;
+      --blue-800: #152652;
+      --blue-700: #1B3368;
+      --blue-600: #234785;
+      --blue-500: #2D5FA0;
+      --blue-400: #4A80C4;
+      --blue-300: #7AA8E0;
+      --blue-200: #B3D1F0;
+      --blue-100: #DEEAF7;
+      --blue-50: #F0F5FB;
+      --white: #FFFFFF;
+      --gray-100: #F5F6F8;
+      --gray-200: #E8EBF0;
+      --gray-300: #D1D5DD;
+      --gray-500: #6B7280;
+      --gray-700: #374151;
+      --gray-900: #111827;
+      --radius: 12px;
+      --shadow-sm: 0 1px 3px rgba(15, 29, 61, 0.06);
+      --shadow-md: 0 4px 24px rgba(15, 29, 61, 0.08);
+      --shadow-lg: 0 12px 48px rgba(15, 29, 61, 0.12);
+      --transition: 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    }
+
+    /* ===== Reset & Base ===== */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; font-size: 16px; }
+    body {
+      font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", -apple-system, sans-serif;
+      color: var(--gray-700);
+      background: var(--white);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+    img { max-width: 100%; display: block; }
+    a { text-decoration: none; color: inherit; }
+    ul { list-style: none; }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* ===== Navigation ===== */
+    .nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      padding: 18px 0;
+      transition: all var(--transition);
+    }
+    .nav.scrolled {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(12px);
+      box-shadow: var(--shadow-sm);
+      padding: 12px 0;
+    }
+    .nav .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .nav-logo {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--white);
+      letter-spacing: -0.5px;
+    }
+    .nav.scrolled .nav-logo { color: var(--blue-900); }
+    .nav-logo span { color: var(--blue-300); }
+    .nav.scrolled .nav-logo span { color: var(--blue-500); }
+
+    .nav-links {
+      display: flex;
+      gap: 36px;
+      align-items: center;
+    }
+    .nav-links a {
+      font-size: 0.9rem;
+      color: rgba(255, 255, 255, 0.85);
+      transition: color var(--transition);
+      position: relative;
+    }
+    .nav.scrolled .nav-links a { color: var(--gray-500); }
+    .nav-links a:hover { color: var(--white); }
+    .nav.scrolled .nav-links a:hover { color: var(--blue-500); }
+
+    .nav-cta {
+      background: var(--blue-400);
+      color: var(--white) !important;
+      padding: 10px 28px;
+      border-radius: 24px;
+      font-weight: 600 !important;
+      transition: all var(--transition) !important;
+    }
+    .nav-cta:hover { background: var(--blue-500); transform: translateY(-1px); }
+
+    .hamburger {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      cursor: pointer;
+      z-index: 1001;
+    }
+    .hamburger span {
+      width: 24px;
+      height: 2px;
+      background: var(--white);
+      border-radius: 2px;
+      transition: all var(--transition);
+    }
+    .nav.scrolled .hamburger span { background: var(--blue-900); }
+
+    /* ===== Hero ===== */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      background: linear-gradient(135deg, var(--blue-900) 0%, var(--blue-800) 35%, var(--blue-700) 65%, var(--blue-600) 100%);
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 800px;
+      height: 800px;
+      background: radial-gradient(circle, rgba(74, 128, 196, 0.15) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      left: -10%;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(45, 95, 160, 0.1) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      padding: 120px 0 80px;
+    }
+    .hero-badge {
+      display: inline-block;
+      background: rgba(74, 128, 196, 0.2);
+      border: 1px solid rgba(74, 128, 196, 0.3);
+      color: var(--blue-200);
+      font-size: 0.85rem;
+      font-weight: 500;
+      padding: 6px 20px;
+      border-radius: 20px;
+      margin-bottom: 32px;
+      letter-spacing: 1px;
+    }
+    .hero h1 {
+      font-size: clamp(2.8rem, 6vw, 4.5rem);
+      font-weight: 800;
+      color: var(--white);
+      line-height: 1.15;
+      margin-bottom: 24px;
+      letter-spacing: -1px;
+    }
+    .hero h1 em {
+      font-style: normal;
+      background: linear-gradient(135deg, var(--blue-300), var(--blue-400));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .hero p {
+      font-size: 1.15rem;
+      color: rgba(255, 255, 255, 0.7);
+      max-width: 560px;
+      margin-bottom: 40px;
+    }
+    .hero-btns {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .btn-primary {
+      background: var(--blue-400);
+      color: var(--white);
+      padding: 14px 36px;
+      border-radius: 28px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      border: none;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .btn-primary:hover { background: var(--blue-500); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(74, 128, 196, 0.4); }
+    .btn-outline {
+      background: transparent;
+      color: var(--white);
+      padding: 14px 36px;
+      border-radius: 28px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      border: 1.5px solid rgba(255, 255, 255, 0.3);
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .btn-outline:hover { border-color: var(--white); background: rgba(255, 255, 255, 0.08); transform: translateY(-2px); }
+
+    .hero-stats {
+      display: flex;
+      gap: 48px;
+      margin-top: 72px;
+    }
+    .hero-stat h3 {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--white);
+    }
+    .hero-stat p {
+      font-size: 0.85rem;
+      color: rgba(255, 255, 255, 0.55);
+      margin: 0;
+    }
+
+    /* ===== Section Common ===== */
+    section { padding: 100px 0; }
+    .section-label {
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--blue-500);
+      margin-bottom: 12px;
+    }
+    .section-title {
+      font-size: clamp(2rem, 4vw, 2.8rem);
+      font-weight: 700;
+      color: var(--blue-900);
+      margin-bottom: 16px;
+      letter-spacing: -0.5px;
+    }
+    .section-subtitle {
+      font-size: 1.05rem;
+      color: var(--gray-500);
+      max-width: 560px;
+      margin-bottom: 56px;
+    }
+    .section-header { text-align: center; }
+    .section-header .section-subtitle { margin-left: auto; margin-right: auto; }
+
+    /* ===== About ===== */
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 80px;
+      align-items: center;
+    }
+    .about-image {
+      position: relative;
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    .about-image .img-placeholder {
+      width: 100%;
+      aspect-ratio: 4/3;
+      background: linear-gradient(135deg, var(--blue-800), var(--blue-600));
+      border-radius: var(--radius);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: rgba(255, 255, 255, 0.3);
+      font-size: 1.2rem;
+    }
+    .about-image::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      right: -2px;
+      width: 120px;
+      height: 120px;
+      background: var(--blue-400);
+      border-radius: 20px 0 0 0;
+      z-index: -1;
+    }
+    .about-text h3 {
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: var(--blue-900);
+      margin-bottom: 16px;
+    }
+    .about-text p {
+      color: var(--gray-500);
+      margin-bottom: 20px;
+      line-height: 1.8;
+    }
+    .about-features {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-top: 28px;
+    }
+    .about-feature {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.9rem;
+      color: var(--blue-700);
+      font-weight: 500;
+    }
+    .about-feature::before {
+      content: '';
+      width: 8px;
+      height: 8px;
+      background: var(--blue-400);
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* ===== Products ===== */
+    .products {
+      background: var(--blue-50);
+    }
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    .product-card {
+      background: var(--white);
+      border-radius: var(--radius);
+      padding: 40px 32px;
+      transition: all var(--transition);
+      border: 1px solid var(--gray-200);
+      position: relative;
+      overflow: hidden;
+    }
+    .product-card:hover {
+      transform: translateY(-6px);
+      box-shadow: var(--shadow-lg);
+      border-color: var(--blue-200);
+    }
+    .product-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--blue-500), var(--blue-400));
+      opacity: 0;
+      transition: opacity var(--transition);
+    }
+    .product-card:hover::before { opacity: 1; }
+    .product-icon {
+      width: 56px;
+      height: 56px;
+      background: var(--blue-50);
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 24px;
+      color: var(--blue-500);
+      font-size: 1.5rem;
+    }
+    .product-card h4 {
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: var(--blue-900);
+      margin-bottom: 8px;
+    }
+    .product-card p {
+      font-size: 0.9rem;
+      color: var(--gray-500);
+      line-height: 1.6;
+    }
+
+    /* ===== Advantages ===== */
+    .adv-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 24px;
+    }
+    .adv-card {
+      text-align: center;
+      padding: 40px 24px;
+      border-radius: var(--radius);
+      transition: all var(--transition);
+    }
+    .adv-card:hover { background: var(--blue-50); }
+    .adv-icon {
+      width: 64px;
+      height: 64px;
+      margin: 0 auto 20px;
+      background: linear-gradient(135deg, var(--blue-500), var(--blue-400));
+      border-radius: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--white);
+      font-size: 1.6rem;
+    }
+    .adv-card h4 {
+      font-size: 1.05rem;
+      color: var(--blue-900);
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+    .adv-card p {
+      font-size: 0.85rem;
+      color: var(--gray-500);
+      line-height: 1.6;
+    }
+
+    /* ===== Applications ===== */
+    .app-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+    }
+    .app-card {
+      position: relative;
+      border-radius: var(--radius);
+      overflow: hidden;
+      cursor: pointer;
+    }
+    .app-card .img-bg {
+      width: 100%;
+      aspect-ratio: 3/4;
+      background: linear-gradient(180deg, var(--blue-700), var(--blue-900));
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: rgba(255, 255, 255, 0.2);
+      font-size: 2.5rem;
+      transition: all var(--transition);
+    }
+    .app-card:hover .img-bg {
+      background: linear-gradient(180deg, var(--blue-600), var(--blue-800));
+      color: rgba(255, 255, 255, 0.35);
+    }
+    .app-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 24px 20px;
+      background: linear-gradient(transparent, rgba(15, 29, 61, 0.9));
+    }
+    .app-overlay h4 {
+      color: var(--white);
+      font-size: 1rem;
+      font-weight: 600;
+    }
+    .app-overlay p {
+      color: rgba(255, 255, 255, 0.6);
+      font-size: 0.8rem;
+      margin-top: 4px;
+    }
+
+    /* ===== CTA ===== */
+    .cta {
+      background: linear-gradient(135deg, var(--blue-800), var(--blue-600));
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .cta::before {
+      content: '';
+      position: absolute;
+      top: -30%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(74, 128, 196, 0.2) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+    .cta-content { position: relative; z-index: 1; }
+    .cta h2 {
+      font-size: clamp(2rem, 4vw, 2.8rem);
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 16px;
+    }
+    .cta p {
+      color: rgba(255, 255, 255, 0.7);
+      max-width: 500px;
+      margin: 0 auto 36px;
+      font-size: 1.05rem;
+    }
+    .cta .btn-primary {
+      background: var(--white);
+      color: var(--blue-800);
+      font-size: 1rem;
+      padding: 16px 44px;
+    }
+    .cta .btn-primary:hover {
+      background: var(--blue-100);
+      box-shadow: 0 8px 32px rgba(255, 255, 255, 0.2);
+    }
+
+    /* ===== Footer ===== */
+    .footer {
+      background: var(--blue-900);
+      color: rgba(255, 255, 255, 0.55);
+      padding: 64px 0 32px;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr 1fr;
+      gap: 48px;
+      margin-bottom: 48px;
+    }
+    .footer-brand h3 {
+      color: var(--white);
+      font-size: 1.3rem;
+      margin-bottom: 12px;
+    }
+    .footer-brand h3 span { color: var(--blue-400); }
+    .footer-brand p { font-size: 0.85rem; line-height: 1.7; }
+    .footer-col h4 {
+      color: var(--white);
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    .footer-col a {
+      display: block;
+      font-size: 0.85rem;
+      margin-bottom: 10px;
+      transition: color var(--transition);
+    }
+    .footer-col a:hover { color: var(--blue-300); }
+    .footer-bottom {
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      padding-top: 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.8rem;
+    }
+
+    /* ===== Mobile Nav ===== */
+    .mobile-nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: var(--white);
+      z-index: 999;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 28px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity var(--transition);
+    }
+    .mobile-nav.active { opacity: 1; pointer-events: auto; }
+    .mobile-nav a {
+      font-size: 1.2rem;
+      color: var(--blue-900);
+      font-weight: 500;
+    }
+
+    /* ===== Responsive ===== */
+    @media (max-width: 1024px) {
+      .product-grid { grid-template-columns: repeat(2, 1fr); }
+      .adv-grid { grid-template-columns: repeat(2, 1fr); }
+      .app-grid { grid-template-columns: repeat(2, 1fr); }
+      .footer-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 768px) {
+      .nav-links { display: none; }
+      .hamburger { display: flex; }
+      .hero h1 { font-size: 2.2rem; }
+      .hero-stats { gap: 24px; flex-wrap: wrap; }
+      .hero-stat h3 { font-size: 1.5rem; }
+      .about-grid { grid-template-columns: 1fr; gap: 40px; }
+      .about-image { order: -1; }
+      .product-grid { grid-template-columns: 1fr; }
+      .adv-grid { grid-template-columns: 1fr; }
+      .app-grid { grid-template-columns: 1fr; }
+      .footer-grid { grid-template-columns: 1fr; gap: 32px; }
+      .footer-bottom { flex-direction: column; gap: 12px; text-align: center; }
+      section { padding: 64px 0; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===== Navigation ===== -->
+  <nav class="nav" id="nav">
+    <div class="container">
+      <a href="#" class="nav-logo">蓝溪<span>墨水</span></a>
+      <div class="nav-links">
+        <a href="#about">关于我们</a>
+        <a href="#products">产品中心</a>
+        <a href="#advantages">核心优势</a>
+        <a href="#applications">应用领域</a>
+        <a href="#cta" class="nav-cta">获取报价</a>
+      </div>
+      <div class="hamburger" id="hamburger">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ===== Mobile Nav ===== -->
+  <div class="mobile-nav" id="mobileNav">
+    <a href="#about" onclick="closeMobileNav()">关于我们</a>
+    <a href="#products" onclick="closeMobileNav()">产品中心</a>
+    <a href="#advantages" onclick="closeMobileNav()">核心优势</a>
+    <a href="#applications" onclick="closeMobileNav()">应用领域</a>
+    <a href="#cta" onclick="closeMobileNav()">获取报价</a>
+  </div>
+
+  <!-- ===== Hero ===== -->
+  <section class="hero">
+    <div class="container hero-content">
+      <span class="hero-badge">SINCE 2005</span>
+      <h1>专业油墨<br><em>为每一抹色彩负责</em></h1>
+      <p>深耕印刷油墨领域近20年，服务全球超过1800家企业客户。从胶印到柔印，从UV到水性，提供一站式油墨解决方案。</p>
+      <div class="hero-btns">
+        <a href="#cta" class="btn-primary">咨询报价</a>
+        <a href="#products" class="btn-outline">查看产品</a>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <h3>1800+</h3>
+          <p>服务企业客户</p>
+        </div>
+        <div class="hero-stat">
+          <h3>20+</h3>
+          <p>产品系列</p>
+        </div>
+        <div class="hero-stat">
+          <h3>30+</h3>
+          <p>出口国家</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== About ===== -->
+  <section id="about">
+    <div class="container">
+      <div class="about-grid">
+        <div class="about-image">
+          <div class="img-placeholder">
+            <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" opacity="0.4"><rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
+          </div>
+        </div>
+        <div class="about-text">
+          <span class="section-label">About Us</span>
+          <h2 class="section-title">近二十年专注，只为一滴好墨</h2>
+          <p>蓝溪墨水成立于2005年，总部位于中国印刷产业重镇。我们拥有行业领先的研发实验室和全自动生产线，年产能超过8000吨，产品涵盖胶印油墨、柔印油墨、凹印油墨、UV油墨及水性油墨五大系列。</p>
+          <p>从原材料甄选到成品出库，每一道工序遵循ISO 9001与ISO 14001双体系标准，确保色彩精准、附着力强、环保达标。</p>
+          <div class="about-features">
+            <span class="about-feature">ISO 9001 质量认证</span>
+            <span class="about-feature">ISO 14001 环境认证</span>
+            <span class="about-feature">REACH / RoHS 合规</span>
+            <span class="about-feature">SGS 第三方检测</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Products ===== -->
+  <section id="products" class="products">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Products</span>
+        <h2 class="section-title">全系列印刷油墨产品</h2>
+        <p class="section-subtitle">覆盖主流印刷工艺，满足不同基材与应用场景的专业需求</p>
+      </div>
+      <div class="product-grid">
+        <div class="product-card">
+          <div class="product-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M6 8h12M8 12h8M10 16h4"/></svg>
+          </div>
+          <h4>胶印油墨</h4>
+          <p>高光泽度、快干型配方，适用于铜版纸、胶版纸等平版印刷场景，色彩还原度高。</p>
+        </div>
+        <div class="product-card">
+          <div class="product-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3"/></svg>
+          </div>
+          <h4>柔印油墨</h4>
+          <p>低粘度、环保水性配方，适配瓦楞纸箱、软包装、标签印刷等高速柔版印刷设备。</p>
+        </div>
+        <div class="product-card">
+          <div class="product-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 6l8-4 8 4v12l-8 4-8-4z"/><path d="M12 2v20"/><path d="M4 6l8 4 8-4"/><path d="M4 18l8-4 8 4"/></svg>
+          </div>
+          <h4>凹印油墨</h4>
+          <p>高浓度、强附着力，适用于塑料薄膜、铝箔等包装材料的凹版印刷，耐刮擦性能优异。</p>
+        </div>
+        <div class="product-card">
+          <div class="product-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="7" cy="12" r="4"/><circle cx="17" cy="12" r="4"/><line x1="11" y1="12" x2="13" y2="12"/></svg>
+          </div>
+          <h4>UV油墨</h4>
+          <p>紫外线固化型配方，即印即干，零VOC排放，适用于高端包装、标签及特殊基材印刷。</p>
+        </div>
+        <div class="product-card">
+          <div class="product-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 8 10 5 10 3 10-5c0-5.5-4.5-10-10-10z"/></svg>
+          </div>
+          <h4>水性油墨</h4>
+          <p>全水性体系，无毒无味，通过EN71-3安全标准，适合食品包装、儿童用品等安全印刷需求。</p>
+        </div>
+        <div class="product-card">
+          <div class="product-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="4"/><path d="M9 9h6M9 13h6M9 17h3"/></svg>
+          </div>
+          <h4>特种油墨</h4>
+          <p>金属油墨、荧光油墨、温变油墨等定制化产品，为品牌包装赋予独特的视觉与触觉体验。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Advantages ===== -->
+  <section id="advantages">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Why Us</span>
+        <h2 class="section-title">选择蓝溪的四大理由</h2>
+        <p class="section-subtitle">用实力兑现品质承诺，让每一次印刷都出色</p>
+      </div>
+      <div class="adv-grid">
+        <div class="adv-card">
+          <div class="adv-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"/><circle cx="12" cy="12" r="9"/></svg>
+          </div>
+          <h4>品质稳定</h4>
+          <p>每批次产品经过12道检测工序，色差值控制在DeltaE 1.5以内，确保印刷色彩一致性。</p>
+        </div>
+        <div class="adv-card">
+          <div class="adv-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 16 14"/></svg>
+          </div>
+          <h4>快速响应</h4>
+          <p>72小时内完成样品打样，7-15天交付标准订单，紧急需求可加急至5天出货。</p>
+        </div>
+        <div class="adv-card">
+          <div class="adv-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+          </div>
+          <h4>定制研发</h4>
+          <p>20人专业研发团队，支持基材适配、色彩定制、特殊性能配方等ODM/OEM深度合作。</p>
+        </div>
+        <div class="adv-card">
+          <div class="adv-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s-8-4.5-8-11.8A8 8 0 0112 2a8 8 0 018 8.2c0 7.3-8 11.8-8 11.8z"/></svg>
+          </div>
+          <h4>环保先行</h4>
+          <p>全线产品符合REACH、RoHS、EN71环保标准，水性油墨VOC含量趋近于零。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Applications ===== -->
+  <section id="applications" class="products">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Applications</span>
+        <h2 class="section-title">应用领域</h2>
+        <p class="section-subtitle">产品广泛应用于以下行业场景</p>
+      </div>
+      <div class="app-grid">
+        <div class="app-card">
+          <div class="img-bg">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="2" y="4" width="20" height="16" rx="1"/><path d="M6 8h4M14 8h4M6 12h8M6 16h12"/></svg>
+          </div>
+          <div class="app-overlay">
+            <h4>食品包装</h4>
+            <p>水性油墨，安全无毒</p>
+          </div>
+        </div>
+        <div class="app-card">
+          <div class="img-bg">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M6 21v-4M18 21v-4M8 7h8M8 11h6"/></svg>
+          </div>
+          <div class="app-overlay">
+            <h4>日化包装</h4>
+            <p>高光耐磨，色彩亮丽</p>
+          </div>
+        </div>
+        <div class="app-card">
+          <div class="img-bg">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="5" width="18" height="14" rx="1"/><path d="M7 9h3M13 9h4M7 13h6M7 17h10"/></svg>
+          </div>
+          <div class="app-overlay">
+            <h4>书刊印刷</h4>
+            <p>胶印专色，文字清晰</p>
+          </div>
+        </div>
+        <div class="app-card">
+          <div class="img-bg">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8.5" cy="10" r="1.5"/><path d="M11 16l2-4 2 4"/></svg>
+          </div>
+          <div class="app-overlay">
+            <h4>标签印刷</h4>
+            <p>UV固化，速干耐候</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CTA ===== -->
+  <section class="cta" id="cta">
+    <div class="container cta-content">
+      <h2>为您的印刷业务找到最合适的墨水方案</h2>
+      <p>无论是标准产品还是定制需求，我们的技术团队将在24小时内与您对接。</p>
+      <a href="mailto:info@lanxi-ink.com" class="btn-primary">立即咨询</a>
+    </div>
+  </section>
+
+  <!-- ===== Footer ===== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <h3>蓝溪<span>墨水</span></h3>
+          <p>专业印刷油墨制造商，近20年行业深耕，为全球客户提供高品质油墨产品与定制化解决方案。</p>
+        </div>
+        <div class="footer-col">
+          <h4>产品中心</h4>
+          <a href="#">胶印油墨</a>
+          <a href="#">柔印油墨</a>
+          <a href="#">凹印油墨</a>
+          <a href="#">UV油墨</a>
+          <a href="#">水性油墨</a>
+        </div>
+        <div class="footer-col">
+          <h4>服务支持</h4>
+          <a href="#">技术支持</a>
+          <a href="#">样品申请</a>
+          <a href="#">色卡下载</a>
+          <a href="#">常见问题</a>
+        </div>
+        <div class="footer-col">
+          <h4>联系方式</h4>
+          <a href="#">info@lanxi-ink.com</a>
+          <a href="#">+86 400-XXX-XXXX</a>
+          <a href="#">周一至周五 8:30-17:30</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; 2025 蓝溪墨水. All rights reserved.</span>
+        <span>ICP备案号 · 隐私政策 · 使用条款</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    /* ===== Scroll Nav ===== */
+    const nav = document.getElementById('nav');
+    window.addEventListener('scroll', () => {
+      nav.classList.toggle('scrolled', window.scrollY > 60);
+    });
+
+    /* ===== Mobile Nav ===== */
+    const hamburger = document.getElementById('hamburger');
+    const mobileNav = document.getElementById('mobileNav');
+    hamburger.addEventListener('click', () => mobileNav.classList.toggle('active'));
+    function closeMobileNav() { mobileNav.classList.remove('active'); }
+
+    /* ===== Scroll reveal ===== */
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.style.opacity = '1';
+          entry.target.style.transform = 'translateY(0)';
+        }
+      });
+    }, { threshold: 0.15 });
+
+    document.querySelectorAll('.product-card, .adv-card, .app-card, .about-text').forEach(el => {
+      el.style.opacity = '0';
+      el.style.transform = 'translateY(30px)';
+      el.style.transition = 'all 0.6s ease';
+      observer.observe(el);
+    });
+  </script>
+
+</body>
+</html>
