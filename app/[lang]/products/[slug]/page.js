@@ -1,5 +1,5 @@
-import { products } from "../../../data/products";
-import { translations } from "../../../i18n-config";
+import { products } from "@/data/products";
+import { translations } from "@/i18n-config";
 
 export async function generateStaticParams() {
   const params = [];

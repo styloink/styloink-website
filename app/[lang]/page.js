@@ -1,4 +1,4 @@
-import { translations } from "../../i18n-config";
+import { translations } from "@/i18n-config";
 
 export default function HomePage({ params }) {
   const t = translations[params.lang] || translations.en;
